@@ -1,0 +1,2561 @@
+,Country,Population,Year,Immigrant Type
+0,Afghanistan,18,2011,Defensive Asylee
+1,Albania,101,2011,Defensive Asylee
+2,Angola,D,2011,Defensive Asylee
+3,Armenia,114,2011,Defensive Asylee
+4,Azerbaijan,11,2011,Defensive Asylee
+5,Bangladesh,39,2011,Defensive Asylee
+6,Belarus,69,2011,Defensive Asylee
+7,Benin,D,2011,Defensive Asylee
+8,Bolivia,4,2011,Defensive Asylee
+9,Brazil,18,2011,Defensive Asylee
+10,Bulgaria,19,2011,Defensive Asylee
+11,Burkina Faso,34,2011,Defensive Asylee
+12,Burma,60,2011,Defensive Asylee
+13,Burundi,8,2011,Defensive Asylee
+14,Cameroon,160,2011,Defensive Asylee
+15,Central African Republic,D,2011,Defensive Asylee
+16,Chad,21,2011,Defensive Asylee
+17,China,4299,2011,Defensive Asylee
+18,Colombia,175,2011,Defensive Asylee
+19,"Congo, Democratic Republic",13,2011,Defensive Asylee
+20,"Congo, Republic",49,2011,Defensive Asylee
+21,Cote d'Ivoire,62,2011,Defensive Asylee
+22,Cuba,13,2011,Defensive Asylee
+23,Djibouti,4,2011,Defensive Asylee
+24,Dominican Republic,7,2011,Defensive Asylee
+25,Ecuador,18,2011,Defensive Asylee
+26,Egypt,252,2011,Defensive Asylee
+27,El Salvador,137,2011,Defensive Asylee
+28,Eritrea,461,2011,Defensive Asylee
+29,Ethiopia,446,2011,Defensive Asylee
+30,Fiji,17,2011,Defensive Asylee
+31,Gambia,38,2011,Defensive Asylee
+32,Georgia,24,2011,Defensive Asylee
+33,Ghana,7,2011,Defensive Asylee
+34,Guatemala,145,2011,Defensive Asylee
+35,Guinea,144,2011,Defensive Asylee
+36,Haiti,44,2011,Defensive Asylee
+37,Honduras,58,2011,Defensive Asylee
+38,India,208,2011,Defensive Asylee
+39,Indonesia,97,2011,Defensive Asylee
+40,Iran,87,2011,Defensive Asylee
+41,Iraq,101,2011,Defensive Asylee
+42,Israel,12,2011,Defensive Asylee
+43,Jamaica,6,2011,Defensive Asylee
+44,Jordan,D,2011,Defensive Asylee
+45,Kazakhstan,13,2011,Defensive Asylee
+46,Kenya,81,2011,Defensive Asylee
+47,Kosovo,12,2011,Defensive Asylee
+48,Kyrgyzstan,14,2011,Defensive Asylee
+49,Lebanon,14,2011,Defensive Asylee
+50,Liberia,16,2011,Defensive Asylee
+51,Libya,D,2011,Defensive Asylee
+52,Mali,72,2011,Defensive Asylee
+53,Mauritania,42,2011,Defensive Asylee
+54,Mexico,92,2011,Defensive Asylee
+55,Moldova,67,2011,Defensive Asylee
+56,Mongolia,48,2011,Defensive Asylee
+57,Nepal,310,2011,Defensive Asylee
+58,Nicaragua,18,2011,Defensive Asylee
+59,Nigeria,21,2011,Defensive Asylee
+60,Pakistan,116,2011,Defensive Asylee
+61,Peru,20,2011,Defensive Asylee
+62,Philippines,5,2011,Defensive Asylee
+63,Romania,9,2011,Defensive Asylee
+64,Russia,170,2011,Defensive Asylee
+65,Rwanda,13,2011,Defensive Asylee
+66,Saudi Arabia,D,2011,Defensive Asylee
+67,Senegal,19,2011,Defensive Asylee
+68,Serbia and Montenegro (former),70,2011,Defensive Asylee
+69,Sierra Leone,14,2011,Defensive Asylee
+70,Somalia,189,2011,Defensive Asylee
+71,South Africa,13,2011,Defensive Asylee
+72,Soviet Union (former),238,2011,Defensive Asylee
+73,Sri Lanka,100,2011,Defensive Asylee
+74,Sudan,29,2011,Defensive Asylee
+75,Syria,6,2011,Defensive Asylee
+76,Tajikistan,10,2011,Defensive Asylee
+77,Togo,28,2011,Defensive Asylee
+78,Turkey,11,2011,Defensive Asylee
+79,Turkmenistan,7,2011,Defensive Asylee
+80,Uganda,21,2011,Defensive Asylee
+81,Ukraine,45,2011,Defensive Asylee
+82,Uzbekistan,62,2011,Defensive Asylee
+83,Venezuela,159,2011,Defensive Asylee
+84,Vietnam,12,2011,Defensive Asylee
+85,Yemen,28,2011,Defensive Asylee
+86,Zimbabwe,39,2011,Defensive Asylee
+87,Afghanistan,33,2012,Defensive Asylee
+88,Albania,67,2012,Defensive Asylee
+89,Angola,D,2012,Defensive Asylee
+90,Armenia,72,2012,Defensive Asylee
+91,Azerbaijan,16,2012,Defensive Asylee
+92,Bangladesh,57,2012,Defensive Asylee
+93,Belarus,71,2012,Defensive Asylee
+94,Benin,5,2012,Defensive Asylee
+95,Bolivia,7,2012,Defensive Asylee
+96,Brazil,13,2012,Defensive Asylee
+97,Bulgaria,16,2012,Defensive Asylee
+98,Burkina Faso,53,2012,Defensive Asylee
+99,Burma,62,2012,Defensive Asylee
+100,Burundi,10,2012,Defensive Asylee
+101,Cameroon,150,2012,Defensive Asylee
+102,Central African Republic,4,2012,Defensive Asylee
+103,Chad,25,2012,Defensive Asylee
+104,China,5000,2012,Defensive Asylee
+105,Colombia,97,2012,Defensive Asylee
+106,"Congo, Democratic Republic",14,2012,Defensive Asylee
+107,"Congo, Republic",42,2012,Defensive Asylee
+108,Cote d'Ivoire,56,2012,Defensive Asylee
+109,Cuba,6,2012,Defensive Asylee
+110,Djibouti,5,2012,Defensive Asylee
+111,Dominican Republic,4,2012,Defensive Asylee
+112,Ecuador,15,2012,Defensive Asylee
+113,Egypt,277,2012,Defensive Asylee
+114,El Salvador,156,2012,Defensive Asylee
+115,Eritrea,331,2012,Defensive Asylee
+116,Ethiopia,406,2012,Defensive Asylee
+117,Fiji,10,2012,Defensive Asylee
+118,Gambia,70,2012,Defensive Asylee
+119,Georgia,18,2012,Defensive Asylee
+120,Ghana,7,2012,Defensive Asylee
+121,Guatemala,192,2012,Defensive Asylee
+122,Guinea,124,2012,Defensive Asylee
+123,Haiti,34,2012,Defensive Asylee
+124,Honduras,73,2012,Defensive Asylee
+125,India,250,2012,Defensive Asylee
+126,Indonesia,98,2012,Defensive Asylee
+127,Iran,88,2012,Defensive Asylee
+128,Iraq,91,2012,Defensive Asylee
+129,Israel,5,2012,Defensive Asylee
+130,Jamaica,11,2012,Defensive Asylee
+131,Jordan,11,2012,Defensive Asylee
+132,Kazakhstan,13,2012,Defensive Asylee
+133,Kenya,69,2012,Defensive Asylee
+134,Kosovo,32,2012,Defensive Asylee
+135,Kyrgyzstan,25,2012,Defensive Asylee
+136,Lebanon,21,2012,Defensive Asylee
+137,Liberia,10,2012,Defensive Asylee
+138,Libya,6,2012,Defensive Asylee
+139,Mali,68,2012,Defensive Asylee
+140,Mauritania,26,2012,Defensive Asylee
+141,Mexico,117,2012,Defensive Asylee
+142,Moldova,88,2012,Defensive Asylee
+143,Mongolia,37,2012,Defensive Asylee
+144,Nepal,379,2012,Defensive Asylee
+145,Nicaragua,9,2012,Defensive Asylee
+146,Nigeria,26,2012,Defensive Asylee
+147,Pakistan,150,2012,Defensive Asylee
+148,Peru,14,2012,Defensive Asylee
+149,Philippines,8,2012,Defensive Asylee
+150,Romania,8,2012,Defensive Asylee
+151,Russia,155,2012,Defensive Asylee
+152,Rwanda,20,2012,Defensive Asylee
+153,Saudi Arabia,9,2012,Defensive Asylee
+154,Senegal,25,2012,Defensive Asylee
+155,Serbia and Montenegro (former),45,2012,Defensive Asylee
+156,Sierra Leone,20,2012,Defensive Asylee
+157,Somalia,82,2012,Defensive Asylee
+158,South Africa,D,2012,Defensive Asylee
+159,Soviet Union (former),255,2012,Defensive Asylee
+160,Sri Lanka,101,2012,Defensive Asylee
+161,Sudan,36,2012,Defensive Asylee
+162,Syria,28,2012,Defensive Asylee
+163,Tajikistan,8,2012,Defensive Asylee
+164,Togo,13,2012,Defensive Asylee
+165,Turkey,22,2012,Defensive Asylee
+166,Turkmenistan,9,2012,Defensive Asylee
+167,Uganda,24,2012,Defensive Asylee
+168,Ukraine,52,2012,Defensive Asylee
+169,Uzbekistan,36,2012,Defensive Asylee
+170,Venezuela,100,2012,Defensive Asylee
+171,Vietnam,10,2012,Defensive Asylee
+172,Yemen,14,2012,Defensive Asylee
+173,Zimbabwe,34,2012,Defensive Asylee
+174,Afghanistan,16,2013,Defensive Asylee
+175,Albania,60,2013,Defensive Asylee
+176,Angola,D,2013,Defensive Asylee
+177,Armenia,51,2013,Defensive Asylee
+178,Azerbaijan,6,2013,Defensive Asylee
+179,Bangladesh,65,2013,Defensive Asylee
+180,Belarus,72,2013,Defensive Asylee
+181,Benin,10,2013,Defensive Asylee
+182,Bolivia,4,2013,Defensive Asylee
+183,Brazil,14,2013,Defensive Asylee
+184,Bulgaria,5,2013,Defensive Asylee
+185,Burkina Faso,58,2013,Defensive Asylee
+186,Burma,33,2013,Defensive Asylee
+187,Burundi,12,2013,Defensive Asylee
+188,Cameroon,136,2013,Defensive Asylee
+189,Central African Republic,8,2013,Defensive Asylee
+190,Chad,4,2013,Defensive Asylee
+191,China,4510,2013,Defensive Asylee
+192,Colombia,67,2013,Defensive Asylee
+193,"Congo, Democratic Republic",25,2013,Defensive Asylee
+194,"Congo, Republic",41,2013,Defensive Asylee
+195,Cote d'Ivoire,58,2013,Defensive Asylee
+196,Cuba,6,2013,Defensive Asylee
+197,Djibouti,9,2013,Defensive Asylee
+198,Dominican Republic,4,2013,Defensive Asylee
+199,Ecuador,25,2013,Defensive Asylee
+200,Egypt,293,2013,Defensive Asylee
+201,El Salvador,181,2013,Defensive Asylee
+202,Eritrea,234,2013,Defensive Asylee
+203,Ethiopia,387,2013,Defensive Asylee
+204,Fiji,D,2013,Defensive Asylee
+205,Gambia,74,2013,Defensive Asylee
+206,Georgia,10,2013,Defensive Asylee
+207,Ghana,10,2013,Defensive Asylee
+208,Guatemala,149,2013,Defensive Asylee
+209,Guinea,92,2013,Defensive Asylee
+210,Haiti,54,2013,Defensive Asylee
+211,Honduras,93,2013,Defensive Asylee
+212,India,311,2013,Defensive Asylee
+213,Indonesia,75,2013,Defensive Asylee
+214,Iran,57,2013,Defensive Asylee
+215,Iraq,52,2013,Defensive Asylee
+216,Israel,D,2013,Defensive Asylee
+217,Jamaica,5,2013,Defensive Asylee
+218,Jordan,13,2013,Defensive Asylee
+219,Kazakhstan,28,2013,Defensive Asylee
+220,Kenya,38,2013,Defensive Asylee
+221,Kosovo,34,2013,Defensive Asylee
+222,Kyrgyzstan,36,2013,Defensive Asylee
+223,Lebanon,17,2013,Defensive Asylee
+224,Liberia,10,2013,Defensive Asylee
+225,Libya,-,2013,Defensive Asylee
+226,Mali,74,2013,Defensive Asylee
+227,Mauritania,39,2013,Defensive Asylee
+228,Mexico,154,2013,Defensive Asylee
+229,Moldova,73,2013,Defensive Asylee
+230,Mongolia,40,2013,Defensive Asylee
+231,Nepal,385,2013,Defensive Asylee
+232,Nicaragua,17,2013,Defensive Asylee
+233,Nigeria,29,2013,Defensive Asylee
+234,Pakistan,122,2013,Defensive Asylee
+235,Peru,8,2013,Defensive Asylee
+236,Philippines,4,2013,Defensive Asylee
+237,Romania,38,2013,Defensive Asylee
+238,Russia,192,2013,Defensive Asylee
+239,Rwanda,28,2013,Defensive Asylee
+240,Saudi Arabia,7,2013,Defensive Asylee
+241,Senegal,19,2013,Defensive Asylee
+242,Serbia and Montenegro (former),49,2013,Defensive Asylee
+243,Sierra Leone,11,2013,Defensive Asylee
+244,Somalia,81,2013,Defensive Asylee
+245,South Africa,D,2013,Defensive Asylee
+246,Soviet Union (former),228,2013,Defensive Asylee
+247,Sri Lanka,96,2013,Defensive Asylee
+248,Sudan,32,2013,Defensive Asylee
+249,Syria,46,2013,Defensive Asylee
+250,Tajikistan,13,2013,Defensive Asylee
+251,Togo,14,2013,Defensive Asylee
+252,Turkey,D,2013,Defensive Asylee
+253,Turkmenistan,D,2013,Defensive Asylee
+254,Uganda,27,2013,Defensive Asylee
+255,Ukraine,55,2013,Defensive Asylee
+256,Uzbekistan,54,2013,Defensive Asylee
+257,Venezuela,76,2013,Defensive Asylee
+258,Vietnam,4,2013,Defensive Asylee
+259,Yemen,9,2013,Defensive Asylee
+260,Zimbabwe,20,2013,Defensive Asylee
+261,Afghanistan,18,2014,Defensive Asylee
+262,Albania,64,2014,Defensive Asylee
+263,Angola,D,2014,Defensive Asylee
+264,Armenia,49,2014,Defensive Asylee
+265,Azerbaijan,10,2014,Defensive Asylee
+266,Bangladesh,51,2014,Defensive Asylee
+267,Belarus,54,2014,Defensive Asylee
+268,Benin,4,2014,Defensive Asylee
+269,Bolivia,D,2014,Defensive Asylee
+270,Brazil,5,2014,Defensive Asylee
+271,Bulgaria,10,2014,Defensive Asylee
+272,Burkina Faso,60,2014,Defensive Asylee
+273,Burma,24,2014,Defensive Asylee
+274,Burundi,31,2014,Defensive Asylee
+275,Cameroon,110,2014,Defensive Asylee
+276,Central African Republic,D,2014,Defensive Asylee
+277,Chad,7,2014,Defensive Asylee
+278,China,3981,2014,Defensive Asylee
+279,Colombia,67,2014,Defensive Asylee
+280,"Congo, Democratic Republic",25,2014,Defensive Asylee
+281,"Congo, Republic",21,2014,Defensive Asylee
+282,Cote d'Ivoire,47,2014,Defensive Asylee
+283,Cuba,9,2014,Defensive Asylee
+284,Djibouti,D,2014,Defensive Asylee
+285,Dominican Republic,11,2014,Defensive Asylee
+286,Ecuador,19,2014,Defensive Asylee
+287,Egypt,240,2014,Defensive Asylee
+288,El Salvador,187,2014,Defensive Asylee
+289,Eritrea,162,2014,Defensive Asylee
+290,Ethiopia,317,2014,Defensive Asylee
+291,Fiji,D,2014,Defensive Asylee
+292,Gambia,76,2014,Defensive Asylee
+293,Georgia,13,2014,Defensive Asylee
+294,Ghana,14,2014,Defensive Asylee
+295,Guatemala,164,2014,Defensive Asylee
+296,Guinea,57,2014,Defensive Asylee
+297,Haiti,50,2014,Defensive Asylee
+298,Honduras,151,2014,Defensive Asylee
+299,India,368,2014,Defensive Asylee
+300,Indonesia,47,2014,Defensive Asylee
+301,Iran,58,2014,Defensive Asylee
+302,Iraq,79,2014,Defensive Asylee
+303,Israel,D,2014,Defensive Asylee
+304,Jamaica,5,2014,Defensive Asylee
+305,Jordan,6,2014,Defensive Asylee
+306,Kazakhstan,31,2014,Defensive Asylee
+307,Kenya,49,2014,Defensive Asylee
+308,Kosovo,28,2014,Defensive Asylee
+309,Kyrgyzstan,35,2014,Defensive Asylee
+310,Lebanon,4,2014,Defensive Asylee
+311,Liberia,13,2014,Defensive Asylee
+312,Libya,D,2014,Defensive Asylee
+313,Mali,56,2014,Defensive Asylee
+314,Mauritania,24,2014,Defensive Asylee
+315,Mexico,105,2014,Defensive Asylee
+316,Moldova,70,2014,Defensive Asylee
+317,Mongolia,21,2014,Defensive Asylee
+318,Nepal,282,2014,Defensive Asylee
+319,Nicaragua,15,2014,Defensive Asylee
+320,Nigeria,59,2014,Defensive Asylee
+321,Pakistan,96,2014,Defensive Asylee
+322,Peru,13,2014,Defensive Asylee
+323,Philippines,-,2014,Defensive Asylee
+324,Romania,20,2014,Defensive Asylee
+325,Russia,115,2014,Defensive Asylee
+326,Rwanda,43,2014,Defensive Asylee
+327,Saudi Arabia,7,2014,Defensive Asylee
+328,Senegal,16,2014,Defensive Asylee
+329,Serbia and Montenegro (former),31,2014,Defensive Asylee
+330,Sierra Leone,10,2014,Defensive Asylee
+331,Somalia,117,2014,Defensive Asylee
+332,South Africa,D,2014,Defensive Asylee
+333,Soviet Union (former),158,2014,Defensive Asylee
+334,Sri Lanka,74,2014,Defensive Asylee
+335,Sudan,14,2014,Defensive Asylee
+336,Syria,65,2014,Defensive Asylee
+337,Tajikistan,13,2014,Defensive Asylee
+338,Togo,11,2014,Defensive Asylee
+339,Turkey,D,2014,Defensive Asylee
+340,Turkmenistan,4,2014,Defensive Asylee
+341,Uganda,24,2014,Defensive Asylee
+342,Ukraine,55,2014,Defensive Asylee
+343,Uzbekistan,37,2014,Defensive Asylee
+344,Venezuela,90,2014,Defensive Asylee
+345,Vietnam,4,2014,Defensive Asylee
+346,Yemen,18,2014,Defensive Asylee
+347,Zimbabwe,7,2014,Defensive Asylee
+348,Afghanistan,14,2015,Defensive Asylee
+349,Albania,75,2015,Defensive Asylee
+350,Angola,D,2015,Defensive Asylee
+351,Armenia,21,2015,Defensive Asylee
+352,Azerbaijan,11,2015,Defensive Asylee
+353,Bangladesh,92,2015,Defensive Asylee
+354,Belarus,34,2015,Defensive Asylee
+355,Benin,10,2015,Defensive Asylee
+356,Bolivia,D,2015,Defensive Asylee
+357,Brazil,D,2015,Defensive Asylee
+358,Bulgaria,D,2015,Defensive Asylee
+359,Burkina Faso,51,2015,Defensive Asylee
+360,Burma,20,2015,Defensive Asylee
+361,Burundi,18,2015,Defensive Asylee
+362,Cameroon,92,2015,Defensive Asylee
+363,Central African Republic,D,2015,Defensive Asylee
+364,Chad,D,2015,Defensive Asylee
+365,China,3585,2015,Defensive Asylee
+366,Colombia,51,2015,Defensive Asylee
+367,"Congo, Democratic Republic",22,2015,Defensive Asylee
+368,"Congo, Republic",16,2015,Defensive Asylee
+369,Cote d'Ivoire,36,2015,Defensive Asylee
+370,Cuba,11,2015,Defensive Asylee
+371,Djibouti,12,2015,Defensive Asylee
+372,Dominican Republic,6,2015,Defensive Asylee
+373,Ecuador,43,2015,Defensive Asylee
+374,Egypt,148,2015,Defensive Asylee
+375,El Salvador,300,2015,Defensive Asylee
+376,Eritrea,138,2015,Defensive Asylee
+377,Ethiopia,252,2015,Defensive Asylee
+378,Fiji,-,2015,Defensive Asylee
+379,Gambia,51,2015,Defensive Asylee
+380,Georgia,8,2015,Defensive Asylee
+381,Ghana,36,2015,Defensive Asylee
+382,Guatemala,363,2015,Defensive Asylee
+383,Guinea,43,2015,Defensive Asylee
+384,Haiti,62,2015,Defensive Asylee
+385,Honduras,303,2015,Defensive Asylee
+386,India,301,2015,Defensive Asylee
+387,Indonesia,19,2015,Defensive Asylee
+388,Iran,37,2015,Defensive Asylee
+389,Iraq,52,2015,Defensive Asylee
+390,Israel,D,2015,Defensive Asylee
+391,Jamaica,7,2015,Defensive Asylee
+392,Jordan,5,2015,Defensive Asylee
+393,Kazakhstan,16,2015,Defensive Asylee
+394,Kenya,21,2015,Defensive Asylee
+395,Kosovo,18,2015,Defensive Asylee
+396,Kyrgyzstan,48,2015,Defensive Asylee
+397,Lebanon,D,2015,Defensive Asylee
+398,Liberia,6,2015,Defensive Asylee
+399,Libya,-,2015,Defensive Asylee
+400,Mali,33,2015,Defensive Asylee
+401,Mauritania,29,2015,Defensive Asylee
+402,Mexico,200,2015,Defensive Asylee
+403,Moldova,40,2015,Defensive Asylee
+404,Mongolia,6,2015,Defensive Asylee
+405,Nepal,250,2015,Defensive Asylee
+406,Nicaragua,20,2015,Defensive Asylee
+407,Nigeria,64,2015,Defensive Asylee
+408,Pakistan,55,2015,Defensive Asylee
+409,Peru,19,2015,Defensive Asylee
+410,Philippines,D,2015,Defensive Asylee
+411,Romania,28,2015,Defensive Asylee
+412,Russia,100,2015,Defensive Asylee
+413,Rwanda,15,2015,Defensive Asylee
+414,Saudi Arabia,4,2015,Defensive Asylee
+415,Senegal,18,2015,Defensive Asylee
+416,Serbia and Montenegro (former),17,2015,Defensive Asylee
+417,Sierra Leone,4,2015,Defensive Asylee
+418,Somalia,177,2015,Defensive Asylee
+419,South Africa,D,2015,Defensive Asylee
+420,Soviet Union (former),159,2015,Defensive Asylee
+421,Sri Lanka,46,2015,Defensive Asylee
+422,Sudan,21,2015,Defensive Asylee
+423,Syria,104,2015,Defensive Asylee
+424,Tajikistan,8,2015,Defensive Asylee
+425,Togo,10,2015,Defensive Asylee
+426,Turkey,14,2015,Defensive Asylee
+427,Turkmenistan,4,2015,Defensive Asylee
+428,Uganda,11,2015,Defensive Asylee
+429,Ukraine,41,2015,Defensive Asylee
+430,Uzbekistan,25,2015,Defensive Asylee
+431,Venezuela,32,2015,Defensive Asylee
+432,Vietnam,D,2015,Defensive Asylee
+433,Yemen,7,2015,Defensive Asylee
+434,Zimbabwe,D,2015,Defensive Asylee
+435,Afghanistan,23,2016,Defensive Asylee
+436,Albania,94,2016,Defensive Asylee
+437,Angola,6,2016,Defensive Asylee
+438,Armenia,18,2016,Defensive Asylee
+439,Azerbaijan,D,2016,Defensive Asylee
+440,Bangladesh,91,2016,Defensive Asylee
+441,Belarus,25,2016,Defensive Asylee
+442,Benin,D,2016,Defensive Asylee
+443,Bolivia,-,2016,Defensive Asylee
+444,Brazil,5,2016,Defensive Asylee
+445,Bulgaria,6,2016,Defensive Asylee
+446,Burkina Faso,71,2016,Defensive Asylee
+447,Burma,16,2016,Defensive Asylee
+448,Burundi,28,2016,Defensive Asylee
+449,Cameroon,114,2016,Defensive Asylee
+450,Central African Republic,D,2016,Defensive Asylee
+451,Chad,4,2016,Defensive Asylee
+452,China,3077,2016,Defensive Asylee
+453,Colombia,24,2016,Defensive Asylee
+454,"Congo, Democratic Republic",8,2016,Defensive Asylee
+455,"Congo, Republic",33,2016,Defensive Asylee
+456,Cote d'Ivoire,17,2016,Defensive Asylee
+457,Cuba,7,2016,Defensive Asylee
+458,Djibouti,D,2016,Defensive Asylee
+459,Dominican Republic,8,2016,Defensive Asylee
+460,Ecuador,39,2016,Defensive Asylee
+461,Egypt,148,2016,Defensive Asylee
+462,El Salvador,758,2016,Defensive Asylee
+463,Eritrea,151,2016,Defensive Asylee
+464,Ethiopia,185,2016,Defensive Asylee
+465,Fiji,-,2016,Defensive Asylee
+466,Gambia,45,2016,Defensive Asylee
+467,Georgia,9,2016,Defensive Asylee
+468,Ghana,65,2016,Defensive Asylee
+469,Guatemala,631,2016,Defensive Asylee
+470,Guinea,49,2016,Defensive Asylee
+471,Haiti,27,2016,Defensive Asylee
+472,Honduras,620,2016,Defensive Asylee
+473,India,308,2016,Defensive Asylee
+474,Indonesia,10,2016,Defensive Asylee
+475,Iran,56,2016,Defensive Asylee
+476,Iraq,26,2016,Defensive Asylee
+477,Israel,-,2016,Defensive Asylee
+478,Jamaica,7,2016,Defensive Asylee
+479,Jordan,D,2016,Defensive Asylee
+480,Kazakhstan,15,2016,Defensive Asylee
+481,Kenya,11,2016,Defensive Asylee
+482,Kosovo,19,2016,Defensive Asylee
+483,Kyrgyzstan,48,2016,Defensive Asylee
+484,Lebanon,6,2016,Defensive Asylee
+485,Liberia,9,2016,Defensive Asylee
+486,Libya,5,2016,Defensive Asylee
+487,Mali,25,2016,Defensive Asylee
+488,Mauritania,13,2016,Defensive Asylee
+489,Mexico,456,2016,Defensive Asylee
+490,Moldova,32,2016,Defensive Asylee
+491,Mongolia,8,2016,Defensive Asylee
+492,Nepal,260,2016,Defensive Asylee
+493,Nicaragua,19,2016,Defensive Asylee
+494,Nigeria,66,2016,Defensive Asylee
+495,Pakistan,69,2016,Defensive Asylee
+496,Peru,17,2016,Defensive Asylee
+497,Philippines,D,2016,Defensive Asylee
+498,Romania,37,2016,Defensive Asylee
+499,Russia,81,2016,Defensive Asylee
+500,Rwanda,19,2016,Defensive Asylee
+501,Saudi Arabia,7,2016,Defensive Asylee
+502,Senegal,7,2016,Defensive Asylee
+503,Serbia and Montenegro (former),D,2016,Defensive Asylee
+504,Sierra Leone,4,2016,Defensive Asylee
+505,Somalia,154,2016,Defensive Asylee
+506,South Africa,-,2016,Defensive Asylee
+507,Soviet Union (former),,2016,Defensive Asylee
+508,Sri Lanka,32,2016,Defensive Asylee
+509,Sudan,25,2016,Defensive Asylee
+510,Syria,77,2016,Defensive Asylee
+511,Tajikistan,10,2016,Defensive Asylee
+512,Togo,D,2016,Defensive Asylee
+513,Turkey,D,2016,Defensive Asylee
+514,Turkmenistan,D,2016,Defensive Asylee
+515,Uganda,14,2016,Defensive Asylee
+516,Ukraine,48,2016,Defensive Asylee
+517,Uzbekistan,15,2016,Defensive Asylee
+518,Venezuela,27,2016,Defensive Asylee
+519,Vietnam,D,2016,Defensive Asylee
+520,Yemen,9,2016,Defensive Asylee
+521,Zimbabwe,D,2016,Defensive Asylee
+522,Afghanistan,28,2017,Defensive Asylee
+523,Albania,118,2017,Defensive Asylee
+524,Angola,11,2017,Defensive Asylee
+525,Armenia,36,2017,Defensive Asylee
+526,Azerbaijan,14,2017,Defensive Asylee
+527,Bangladesh,120,2017,Defensive Asylee
+528,Belarus,25,2017,Defensive Asylee
+529,Benin,D,2017,Defensive Asylee
+530,Bolivia,D,2017,Defensive Asylee
+531,Brazil,10,2017,Defensive Asylee
+532,Bulgaria,D,2017,Defensive Asylee
+533,Burkina Faso,78,2017,Defensive Asylee
+534,Burma,10,2017,Defensive Asylee
+535,Burundi,20,2017,Defensive Asylee
+536,Cameroon,219,2017,Defensive Asylee
+537,Central African Republic,7,2017,Defensive Asylee
+538,Chad,10,2017,Defensive Asylee
+539,China,2731,2017,Defensive Asylee
+540,Colombia,38,2017,Defensive Asylee
+541,"Congo, Democratic Republic",32,2017,Defensive Asylee
+542,"Congo, Republic",24,2017,Defensive Asylee
+543,Cote d'Ivoire,19,2017,Defensive Asylee
+544,Cuba,62,2017,Defensive Asylee
+545,Djibouti,11,2017,Defensive Asylee
+546,Dominican Republic,6,2017,Defensive Asylee
+547,Ecuador,77,2017,Defensive Asylee
+548,Egypt,140,2017,Defensive Asylee
+549,El Salvador,1343,2017,Defensive Asylee
+550,Eritrea,238,2017,Defensive Asylee
+551,Ethiopia,155,2017,Defensive Asylee
+552,Fiji,D,2017,Defensive Asylee
+553,Gambia,32,2017,Defensive Asylee
+554,Georgia,11,2017,Defensive Asylee
+555,Ghana,74,2017,Defensive Asylee
+556,Guatemala,953,2017,Defensive Asylee
+557,Guinea,79,2017,Defensive Asylee
+558,Haiti,91,2017,Defensive Asylee
+559,Honduras,956,2017,Defensive Asylee
+560,India,457,2017,Defensive Asylee
+561,Indonesia,11,2017,Defensive Asylee
+562,Iran,51,2017,Defensive Asylee
+563,Iraq,45,2017,Defensive Asylee
+564,Israel,D,2017,Defensive Asylee
+565,Jamaica,8,2017,Defensive Asylee
+566,Jordan,D,2017,Defensive Asylee
+567,Kazakhstan,30,2017,Defensive Asylee
+568,Kenya,14,2017,Defensive Asylee
+569,Kosovo,32,2017,Defensive Asylee
+570,Kyrgyzstan,37,2017,Defensive Asylee
+571,Lebanon,4,2017,Defensive Asylee
+572,Liberia,8,2017,Defensive Asylee
+573,Libya,5,2017,Defensive Asylee
+574,Mali,31,2017,Defensive Asylee
+575,Mauritania,20,2017,Defensive Asylee
+576,Mexico,551,2017,Defensive Asylee
+577,Moldova,30,2017,Defensive Asylee
+578,Mongolia,5,2017,Defensive Asylee
+579,Nepal,290,2017,Defensive Asylee
+580,Nicaragua,27,2017,Defensive Asylee
+581,Nigeria,70,2017,Defensive Asylee
+582,Pakistan,93,2017,Defensive Asylee
+583,Peru,19,2017,Defensive Asylee
+584,Philippines,D,2017,Defensive Asylee
+585,Romania,38,2017,Defensive Asylee
+586,Russia,59,2017,Defensive Asylee
+587,Rwanda,22,2017,Defensive Asylee
+588,Saudi Arabia,10,2017,Defensive Asylee
+589,Senegal,23,2017,Defensive Asylee
+590,Serbia and Montenegro (former),5,2017,Defensive Asylee
+591,Sierra Leone,10,2017,Defensive Asylee
+592,Somalia,90,2017,Defensive Asylee
+593,South Africa,D,2017,Defensive Asylee
+594,Soviet Union (former),,2017,Defensive Asylee
+595,Sri Lanka,41,2017,Defensive Asylee
+596,Sudan,25,2017,Defensive Asylee
+597,Syria,145,2017,Defensive Asylee
+598,Tajikistan,6,2017,Defensive Asylee
+599,Togo,13,2017,Defensive Asylee
+600,Turkey,13,2017,Defensive Asylee
+601,Turkmenistan,4,2017,Defensive Asylee
+602,Uganda,19,2017,Defensive Asylee
+603,Ukraine,68,2017,Defensive Asylee
+604,Uzbekistan,32,2017,Defensive Asylee
+605,Venezuela,68,2017,Defensive Asylee
+606,Vietnam,D,2017,Defensive Asylee
+607,Yemen,4,2017,Defensive Asylee
+608,Zimbabwe,13,2017,Defensive Asylee
+609,Afghanistan,28,2018,Defensive Asylee
+610,Albania,180,2018,Defensive Asylee
+611,Angola,19,2018,Defensive Asylee
+612,Armenia,58,2018,Defensive Asylee
+613,Azerbaijan,21,2018,Defensive Asylee
+614,Bangladesh,287,2018,Defensive Asylee
+615,Belarus,38,2018,Defensive Asylee
+616,Benin,-,2018,Defensive Asylee
+617,Bolivia,D,2018,Defensive Asylee
+618,Brazil,21,2018,Defensive Asylee
+619,Bulgaria,4,2018,Defensive Asylee
+620,Burkina Faso,63,2018,Defensive Asylee
+621,Burma,15,2018,Defensive Asylee
+622,Burundi,22,2018,Defensive Asylee
+623,Cameroon,312,2018,Defensive Asylee
+624,Central African Republic,11,2018,Defensive Asylee
+625,Chad,7,2018,Defensive Asylee
+626,China,3048,2018,Defensive Asylee
+627,Colombia,40,2018,Defensive Asylee
+628,"Congo, Democratic Republic",50,2018,Defensive Asylee
+629,"Congo, Republic",40,2018,Defensive Asylee
+630,Cote d'Ivoire,23,2018,Defensive Asylee
+631,Cuba,161,2018,Defensive Asylee
+632,Djibouti,6,2018,Defensive Asylee
+633,Dominican Republic,8,2018,Defensive Asylee
+634,Ecuador,119,2018,Defensive Asylee
+635,Egypt,164,2018,Defensive Asylee
+636,El Salvador,1773,2018,Defensive Asylee
+637,Eritrea,271,2018,Defensive Asylee
+638,Ethiopia,121,2018,Defensive Asylee
+639,Fiji,D,2018,Defensive Asylee
+640,Gambia,32,2018,Defensive Asylee
+641,Georgia,8,2018,Defensive Asylee
+642,Ghana,36,2018,Defensive Asylee
+643,Guatemala,1016,2018,Defensive Asylee
+644,Guinea,85,2018,Defensive Asylee
+645,Haiti,49,2018,Defensive Asylee
+646,Honduras,1181,2018,Defensive Asylee
+647,India,951,2018,Defensive Asylee
+648,Indonesia,17,2018,Defensive Asylee
+649,Iran,53,2018,Defensive Asylee
+650,Iraq,74,2018,Defensive Asylee
+651,Israel,D,2018,Defensive Asylee
+652,Jamaica,10,2018,Defensive Asylee
+653,Jordan,7,2018,Defensive Asylee
+654,Kazakhstan,25,2018,Defensive Asylee
+655,Kenya,22,2018,Defensive Asylee
+656,Kosovo,31,2018,Defensive Asylee
+657,Kyrgyzstan,64,2018,Defensive Asylee
+658,Lebanon,8,2018,Defensive Asylee
+659,Liberia,12,2018,Defensive Asylee
+660,Libya,D,2018,Defensive Asylee
+661,Mali,32,2018,Defensive Asylee
+662,Mauritania,13,2018,Defensive Asylee
+663,Mexico,631,2018,Defensive Asylee
+664,Moldova,38,2018,Defensive Asylee
+665,Mongolia,15,2018,Defensive Asylee
+666,Nepal,469,2018,Defensive Asylee
+667,Nicaragua,35,2018,Defensive Asylee
+668,Nigeria,53,2018,Defensive Asylee
+669,Pakistan,135,2018,Defensive Asylee
+670,Peru,26,2018,Defensive Asylee
+671,Philippines,11,2018,Defensive Asylee
+672,Romania,44,2018,Defensive Asylee
+673,Russia,118,2018,Defensive Asylee
+674,Rwanda,39,2018,Defensive Asylee
+675,Saudi Arabia,9,2018,Defensive Asylee
+676,Senegal,12,2018,Defensive Asylee
+677,Serbia and Montenegro (former),D,2018,Defensive Asylee
+678,Sierra Leone,21,2018,Defensive Asylee
+679,Somalia,41,2018,Defensive Asylee
+680,South Africa,D,2018,Defensive Asylee
+681,Soviet Union (former),,2018,Defensive Asylee
+682,Sri Lanka,56,2018,Defensive Asylee
+683,Sudan,25,2018,Defensive Asylee
+684,Syria,157,2018,Defensive Asylee
+685,Tajikistan,15,2018,Defensive Asylee
+686,Togo,11,2018,Defensive Asylee
+687,Turkey,26,2018,Defensive Asylee
+688,Turkmenistan,8,2018,Defensive Asylee
+689,Uganda,28,2018,Defensive Asylee
+690,Ukraine,106,2018,Defensive Asylee
+691,Uzbekistan,45,2018,Defensive Asylee
+692,Venezuela,123,2018,Defensive Asylee
+693,Vietnam,6,2018,Defensive Asylee
+694,Yemen,21,2018,Defensive Asylee
+695,Zimbabwe,8,2018,Defensive Asylee
+696,Afghanistan,31,2019,Defensive Asylee
+697,Albania,122,2019,Defensive Asylee
+698,Angola,29,2019,Defensive Asylee
+699,Armenia,106,2019,Defensive Asylee
+700,Azerbaijan,21,2019,Defensive Asylee
+701,Bangladesh,367,2019,Defensive Asylee
+702,Belarus,37,2019,Defensive Asylee
+703,Benin,D,2019,Defensive Asylee
+704,Bolivia,11,2019,Defensive Asylee
+705,Brazil,38,2019,Defensive Asylee
+706,Bulgaria,10,2019,Defensive Asylee
+707,Burkina Faso,81,2019,Defensive Asylee
+708,Burma,26,2019,Defensive Asylee
+709,Burundi,47,2019,Defensive Asylee
+710,Cameroon,659,2019,Defensive Asylee
+711,Central African Republic,D,2019,Defensive Asylee
+712,Chad,17,2019,Defensive Asylee
+713,China,3459,2019,Defensive Asylee
+714,Colombia,46,2019,Defensive Asylee
+715,"Congo, Democratic Republic",56,2019,Defensive Asylee
+716,"Congo, Republic",30,2019,Defensive Asylee
+717,Cote d'Ivoire,30,2019,Defensive Asylee
+718,Cuba,711,2019,Defensive Asylee
+719,Djibouti,10,2019,Defensive Asylee
+720,Dominican Republic,6,2019,Defensive Asylee
+721,Ecuador,121,2019,Defensive Asylee
+722,Egypt,146,2019,Defensive Asylee
+723,El Salvador,2320,2019,Defensive Asylee
+724,Eritrea,320,2019,Defensive Asylee
+725,Ethiopia,181,2019,Defensive Asylee
+726,Fiji,6,2019,Defensive Asylee
+727,Gambia,24,2019,Defensive Asylee
+728,Georgia,34,2019,Defensive Asylee
+729,Ghana,48,2019,Defensive Asylee
+730,Guatemala,1544,2019,Defensive Asylee
+731,Guinea,87,2019,Defensive Asylee
+732,Haiti,77,2019,Defensive Asylee
+733,Honduras,1291,2019,Defensive Asylee
+734,India,1927,2019,Defensive Asylee
+735,Indonesia,27,2019,Defensive Asylee
+736,Iran,107,2019,Defensive Asylee
+737,Iraq,105,2019,Defensive Asylee
+738,Israel,4,2019,Defensive Asylee
+739,Jamaica,15,2019,Defensive Asylee
+740,Jordan,29,2019,Defensive Asylee
+741,Kazakhstan,27,2019,Defensive Asylee
+742,Kenya,28,2019,Defensive Asylee
+743,Kosovo,43,2019,Defensive Asylee
+744,Kyrgyzstan,80,2019,Defensive Asylee
+745,Lebanon,28,2019,Defensive Asylee
+746,Liberia,15,2019,Defensive Asylee
+747,Libya,14,2019,Defensive Asylee
+748,Mali,26,2019,Defensive Asylee
+749,Mauritania,26,2019,Defensive Asylee
+750,Mexico,802,2019,Defensive Asylee
+751,Moldova,76,2019,Defensive Asylee
+752,Mongolia,34,2019,Defensive Asylee
+753,Nepal,605,2019,Defensive Asylee
+754,Nicaragua,357,2019,Defensive Asylee
+755,Nigeria,194,2019,Defensive Asylee
+756,Pakistan,181,2019,Defensive Asylee
+757,Peru,46,2019,Defensive Asylee
+758,Philippines,7,2019,Defensive Asylee
+759,Romania,40,2019,Defensive Asylee
+760,Russia,299,2019,Defensive Asylee
+761,Rwanda,28,2019,Defensive Asylee
+762,Saudi Arabia,10,2019,Defensive Asylee
+763,Senegal,14,2019,Defensive Asylee
+764,Serbia and Montenegro (former),D,2019,Defensive Asylee
+765,Sierra Leone,21,2019,Defensive Asylee
+766,Somalia,32,2019,Defensive Asylee
+767,South Africa,5,2019,Defensive Asylee
+768,Soviet Union (former),,2019,Defensive Asylee
+769,Sri Lanka,70,2019,Defensive Asylee
+770,Sudan,37,2019,Defensive Asylee
+771,Syria,135,2019,Defensive Asylee
+772,Tajikistan,14,2019,Defensive Asylee
+773,Togo,13,2019,Defensive Asylee
+774,Turkey,60,2019,Defensive Asylee
+775,Turkmenistan,12,2019,Defensive Asylee
+776,Uganda,59,2019,Defensive Asylee
+777,Ukraine,142,2019,Defensive Asylee
+778,Uzbekistan,89,2019,Defensive Asylee
+779,Venezuela,501,2019,Defensive Asylee
+780,Vietnam,36,2019,Defensive Asylee
+781,Yemen,21,2019,Defensive Asylee
+782,Zimbabwe,12,2019,Defensive Asylee
+783,Afghanistan,20,2020,Defensive Asylee
+784,Albania,79,2020,Defensive Asylee
+785,Angola,22,2020,Defensive Asylee
+786,Armenia,57,2020,Defensive Asylee
+787,Azerbaijan,13,2020,Defensive Asylee
+788,Bangladesh,289,2020,Defensive Asylee
+789,Belarus,24,2020,Defensive Asylee
+790,Benin,D,2020,Defensive Asylee
+791,Bolivia,D,2020,Defensive Asylee
+792,Brazil,50,2020,Defensive Asylee
+793,Bulgaria,-,2020,Defensive Asylee
+794,Burkina Faso,58,2020,Defensive Asylee
+795,Burma,12,2020,Defensive Asylee
+796,Burundi,16,2020,Defensive Asylee
+797,Cameroon,591,2020,Defensive Asylee
+798,Central African Republic,D,2020,Defensive Asylee
+799,Chad,5,2020,Defensive Asylee
+800,China,1949,2020,Defensive Asylee
+801,Colombia,37,2020,Defensive Asylee
+802,"Congo, Democratic Republic",42,2020,Defensive Asylee
+803,"Congo, Republic",18,2020,Defensive Asylee
+804,Cote d'Ivoire,20,2020,Defensive Asylee
+805,Cuba,1226,2020,Defensive Asylee
+806,Djibouti,6,2020,Defensive Asylee
+807,Dominican Republic,22,2020,Defensive Asylee
+808,Ecuador,103,2020,Defensive Asylee
+809,Egypt,108,2020,Defensive Asylee
+810,El Salvador,1721,2020,Defensive Asylee
+811,Eritrea,122,2020,Defensive Asylee
+812,Ethiopia,74,2020,Defensive Asylee
+813,Fiji,-,2020,Defensive Asylee
+814,Gambia,8,2020,Defensive Asylee
+815,Georgia,30,2020,Defensive Asylee
+816,Ghana,27,2020,Defensive Asylee
+817,Guatemala,1435,2020,Defensive Asylee
+818,Guinea,33,2020,Defensive Asylee
+819,Haiti,47,2020,Defensive Asylee
+820,Honduras,1013,2020,Defensive Asylee
+821,India,1179,2020,Defensive Asylee
+822,Indonesia,27,2020,Defensive Asylee
+823,Iran,55,2020,Defensive Asylee
+824,Iraq,94,2020,Defensive Asylee
+825,Israel,D,2020,Defensive Asylee
+826,Jamaica,4,2020,Defensive Asylee
+827,Jordan,8,2020,Defensive Asylee
+828,Kazakhstan,20,2020,Defensive Asylee
+829,Kenya,26,2020,Defensive Asylee
+830,Kosovo,15,2020,Defensive Asylee
+831,Kyrgyzstan,55,2020,Defensive Asylee
+832,Lebanon,5,2020,Defensive Asylee
+833,Liberia,18,2020,Defensive Asylee
+834,Libya,14,2020,Defensive Asylee
+835,Mali,11,2020,Defensive Asylee
+836,Mauritania,22,2020,Defensive Asylee
+837,Mexico,717,2020,Defensive Asylee
+838,Moldova,38,2020,Defensive Asylee
+839,Mongolia,11,2020,Defensive Asylee
+840,Nepal,307,2020,Defensive Asylee
+841,Nicaragua,364,2020,Defensive Asylee
+842,Nigeria,151,2020,Defensive Asylee
+843,Pakistan,92,2020,Defensive Asylee
+844,Peru,17,2020,Defensive Asylee
+845,Philippines,8,2020,Defensive Asylee
+846,Romania,31,2020,Defensive Asylee
+847,Russia,244,2020,Defensive Asylee
+848,Rwanda,24,2020,Defensive Asylee
+849,Saudi Arabia,11,2020,Defensive Asylee
+850,Senegal,11,2020,Defensive Asylee
+851,Serbia and Montenegro (former),4,2020,Defensive Asylee
+852,Sierra Leone,8,2020,Defensive Asylee
+853,Somalia,16,2020,Defensive Asylee
+854,South Africa,D,2020,Defensive Asylee
+855,Soviet Union (former),,2020,Defensive Asylee
+856,Sri Lanka,57,2020,Defensive Asylee
+857,Sudan,9,2020,Defensive Asylee
+858,Syria,62,2020,Defensive Asylee
+859,Tajikistan,10,2020,Defensive Asylee
+860,Togo,10,2020,Defensive Asylee
+861,Turkey,54,2020,Defensive Asylee
+862,Turkmenistan,5,2020,Defensive Asylee
+863,Uganda,46,2020,Defensive Asylee
+864,Ukraine,83,2020,Defensive Asylee
+865,Uzbekistan,90,2020,Defensive Asylee
+866,Venezuela,890,2020,Defensive Asylee
+867,Vietnam,89,2020,Defensive Asylee
+868,Yemen,20,2020,Defensive Asylee
+869,Zimbabwe,8,2020,Defensive Asylee
+0,Afghanistan,122,2011,Affirmative Asylee
+1,Albania,21,2011,Affirmative Asylee
+2,Algeria,8,2011,Affirmative Asylee
+3,Angola,15,2011,Affirmative Asylee
+4,Armenia,47,2011,Affirmative Asylee
+5,Azerbaijan,21,2011,Affirmative Asylee
+6,Bahrain,4,2011,Affirmative Asylee
+7,Bangladesh,30,2011,Affirmative Asylee
+8,Belarus,142,2011,Affirmative Asylee
+9,Benin,3,2011,Affirmative Asylee
+10,Bolivia,18,2011,Affirmative Asylee
+11,Bosnia and Herzegovina,5,2011,Affirmative Asylee
+12,Brazil,38,2011,Affirmative Asylee
+13,Bulgaria,13,2011,Affirmative Asylee
+14,Burkina Faso,57,2011,Affirmative Asylee
+15,Burma,147,2011,Affirmative Asylee
+16,Burundi,20,2011,Affirmative Asylee
+17,Cambodia,-,2011,Affirmative Asylee
+18,Cameroon,245,2011,Affirmative Asylee
+19,Central African Republic,6,2011,Affirmative Asylee
+20,Chad,8,2011,Affirmative Asylee
+21,China,3893,2011,Affirmative Asylee
+22,Colombia,326,2011,Affirmative Asylee
+23,"Congo, Democratic Republic",51,2011,Affirmative Asylee
+24,"Congo, Republic",106,2011,Affirmative Asylee
+25,Cote d'Ivoire,107,2011,Affirmative Asylee
+26,Cuba,19,2011,Affirmative Asylee
+27,Djibouti,46,2011,Affirmative Asylee
+28,Dominican Republic,D,2011,Affirmative Asylee
+29,Ecuador,6,2011,Affirmative Asylee
+30,Egypt,754,2011,Affirmative Asylee
+31,El Salvador,99,2011,Affirmative Asylee
+32,Eritrea,162,2011,Affirmative Asylee
+33,Ethiopia,558,2011,Affirmative Asylee
+34,Fiji,18,2011,Affirmative Asylee
+35,Gabon,-,2011,Affirmative Asylee
+36,Gambia,69,2011,Affirmative Asylee
+37,Georgia,8,2011,Affirmative Asylee
+38,Ghana,8,2011,Affirmative Asylee
+39,Guatemala,292,2011,Affirmative Asylee
+40,Guinea,82,2011,Affirmative Asylee
+41,Guyana,D,2011,Affirmative Asylee
+42,Haiti,819,2011,Affirmative Asylee
+43,Honduras,59,2011,Affirmative Asylee
+44,India,100,2011,Affirmative Asylee
+45,Indonesia,88,2011,Affirmative Asylee
+46,Iran,367,2011,Affirmative Asylee
+47,Iraq,264,2011,Affirmative Asylee
+48,Israel,5,2011,Affirmative Asylee
+49,Jamaica,49,2011,Affirmative Asylee
+50,Jordan,9,2011,Affirmative Asylee
+51,Kazakhstan,50,2011,Affirmative Asylee
+52,Kenya,106,2011,Affirmative Asylee
+53,Kosovo,18,2011,Affirmative Asylee
+54,Kuwait,3,2011,Affirmative Asylee
+55,Kyrgyzstan,150,2011,Affirmative Asylee
+56,Laos,5,2011,Affirmative Asylee
+57,Lebanon,22,2011,Affirmative Asylee
+58,Liberia,28,2011,Affirmative Asylee
+59,Libya,64,2011,Affirmative Asylee
+60,Malaysia,6,2011,Affirmative Asylee
+61,Mali,57,2011,Affirmative Asylee
+62,Mauritania,30,2011,Affirmative Asylee
+63,Mexico,165,2011,Affirmative Asylee
+64,Moldova,135,2011,Affirmative Asylee
+65,Mongolia,94,2011,Affirmative Asylee
+66,Montenegro,D,2011,Affirmative Asylee
+67,Morocco,8,2011,Affirmative Asylee
+68,Nepal,415,2011,Affirmative Asylee
+69,Nicaragua,12,2011,Affirmative Asylee
+70,Niger,D,2011,Affirmative Asylee
+71,Nigeria,32,2011,Affirmative Asylee
+72,North Macedonia,3,2011,Affirmative Asylee
+73,Pakistan,257,2011,Affirmative Asylee
+74,Peru,30,2011,Affirmative Asylee
+75,Philippines,D,2011,Affirmative Asylee
+76,Romania,12,2011,Affirmative Asylee
+77,Russia,451,2011,Affirmative Asylee
+78,Rwanda,70,2011,Affirmative Asylee
+79,Saudi Arabia,9,2011,Affirmative Asylee
+80,Senegal,16,2011,Affirmative Asylee
+81,Serbia,D,2011,Affirmative Asylee
+82,Serbia and Montenegro (former),11,2011,Affirmative Asylee
+83,Sierra Leone,21,2011,Affirmative Asylee
+84,Somalia,28,2011,Affirmative Asylee
+85,South Africa,D,2011,Affirmative Asylee
+86,South Sudan,-,2011,Affirmative Asylee
+87,Soviet Union (former),-,2011,Affirmative Asylee
+88,Sri Lanka,53,2011,Affirmative Asylee
+89,Sudan,102,2011,Affirmative Asylee
+90,Syria,46,2011,Affirmative Asylee
+91,Tajikistan,31,2011,Affirmative Asylee
+92,Tanzania,10,2011,Affirmative Asylee
+93,Togo,26,2011,Affirmative Asylee
+94,Tunisia,3,2011,Affirmative Asylee
+95,Turkey,29,2011,Affirmative Asylee
+96,Turkmenistan,16,2011,Affirmative Asylee
+97,Uganda,100,2011,Affirmative Asylee
+98,Ukraine,123,2011,Affirmative Asylee
+99,Uzbekistan,118,2011,Affirmative Asylee
+100,Venezuela,909,2011,Affirmative Asylee
+101,Vietnam,18,2011,Affirmative Asylee
+102,Yemen,33,2011,Affirmative Asylee
+103,Zimbabwe,79,2011,Affirmative Asylee
+104,Afghanistan,157,2012,Affirmative Asylee
+105,Albania,21,2012,Affirmative Asylee
+106,Algeria,12,2012,Affirmative Asylee
+107,Angola,9,2012,Affirmative Asylee
+108,Armenia,41,2012,Affirmative Asylee
+109,Azerbaijan,28,2012,Affirmative Asylee
+110,Bahrain,22,2012,Affirmative Asylee
+111,Bangladesh,29,2012,Affirmative Asylee
+112,Belarus,249,2012,Affirmative Asylee
+113,Benin,D,2012,Affirmative Asylee
+114,Bolivia,20,2012,Affirmative Asylee
+115,Bosnia and Herzegovina,8,2012,Affirmative Asylee
+116,Brazil,45,2012,Affirmative Asylee
+117,Bulgaria,19,2012,Affirmative Asylee
+118,Burkina Faso,60,2012,Affirmative Asylee
+119,Burma,103,2012,Affirmative Asylee
+120,Burundi,21,2012,Affirmative Asylee
+121,Cambodia,D,2012,Affirmative Asylee
+122,Cameroon,257,2012,Affirmative Asylee
+123,Central African Republic,8,2012,Affirmative Asylee
+124,Chad,13,2012,Affirmative Asylee
+125,China,4668,2012,Affirmative Asylee
+126,Colombia,340,2012,Affirmative Asylee
+127,"Congo, Democratic Republic",69,2012,Affirmative Asylee
+128,"Congo, Republic",75,2012,Affirmative Asylee
+129,Cote d'Ivoire,111,2012,Affirmative Asylee
+130,Cuba,24,2012,Affirmative Asylee
+131,Djibouti,15,2012,Affirmative Asylee
+132,Dominican Republic,11,2012,Affirmative Asylee
+133,Ecuador,18,2012,Affirmative Asylee
+134,Egypt,2577,2012,Affirmative Asylee
+135,El Salvador,136,2012,Affirmative Asylee
+136,Eritrea,122,2012,Affirmative Asylee
+137,Ethiopia,666,2012,Affirmative Asylee
+138,Fiji,16,2012,Affirmative Asylee
+139,Gabon,4,2012,Affirmative Asylee
+140,Gambia,109,2012,Affirmative Asylee
+141,Georgia,17,2012,Affirmative Asylee
+142,Ghana,7,2012,Affirmative Asylee
+143,Guatemala,312,2012,Affirmative Asylee
+144,Guinea,62,2012,Affirmative Asylee
+145,Guyana,6,2012,Affirmative Asylee
+146,Haiti,635,2012,Affirmative Asylee
+147,Honduras,134,2012,Affirmative Asylee
+148,India,93,2012,Affirmative Asylee
+149,Indonesia,87,2012,Affirmative Asylee
+150,Iran,612,2012,Affirmative Asylee
+151,Iraq,315,2012,Affirmative Asylee
+152,Israel,5,2012,Affirmative Asylee
+153,Jamaica,48,2012,Affirmative Asylee
+154,Jordan,42,2012,Affirmative Asylee
+155,Kazakhstan,91,2012,Affirmative Asylee
+156,Kenya,129,2012,Affirmative Asylee
+157,Kosovo,28,2012,Affirmative Asylee
+158,Kuwait,4,2012,Affirmative Asylee
+159,Kyrgyzstan,145,2012,Affirmative Asylee
+160,Laos,D,2012,Affirmative Asylee
+161,Lebanon,22,2012,Affirmative Asylee
+162,Liberia,13,2012,Affirmative Asylee
+163,Libya,44,2012,Affirmative Asylee
+164,Malaysia,7,2012,Affirmative Asylee
+165,Mali,60,2012,Affirmative Asylee
+166,Mauritania,26,2012,Affirmative Asylee
+167,Mexico,299,2012,Affirmative Asylee
+168,Moldova,166,2012,Affirmative Asylee
+169,Mongolia,81,2012,Affirmative Asylee
+170,Montenegro,D,2012,Affirmative Asylee
+171,Morocco,9,2012,Affirmative Asylee
+172,Nepal,580,2012,Affirmative Asylee
+173,Nicaragua,25,2012,Affirmative Asylee
+174,Niger,4,2012,Affirmative Asylee
+175,Nigeria,67,2012,Affirmative Asylee
+176,North Macedonia,D,2012,Affirmative Asylee
+177,Pakistan,243,2012,Affirmative Asylee
+178,Peru,26,2012,Affirmative Asylee
+179,Philippines,11,2012,Affirmative Asylee
+180,Romania,8,2012,Affirmative Asylee
+181,Russia,488,2012,Affirmative Asylee
+182,Rwanda,82,2012,Affirmative Asylee
+183,Saudi Arabia,17,2012,Affirmative Asylee
+184,Senegal,18,2012,Affirmative Asylee
+185,Serbia,-,2012,Affirmative Asylee
+186,Serbia and Montenegro (former),23,2012,Affirmative Asylee
+187,Sierra Leone,14,2012,Affirmative Asylee
+188,Somalia,42,2012,Affirmative Asylee
+189,South Africa,8,2012,Affirmative Asylee
+190,South Sudan,-,2012,Affirmative Asylee
+191,Soviet Union (former),-,2012,Affirmative Asylee
+192,Sri Lanka,26,2012,Affirmative Asylee
+193,Sudan,123,2012,Affirmative Asylee
+194,Syria,331,2012,Affirmative Asylee
+195,Tajikistan,25,2012,Affirmative Asylee
+196,Tanzania,12,2012,Affirmative Asylee
+197,Togo,16,2012,Affirmative Asylee
+198,Tunisia,7,2012,Affirmative Asylee
+199,Turkey,29,2012,Affirmative Asylee
+200,Turkmenistan,11,2012,Affirmative Asylee
+201,Uganda,93,2012,Affirmative Asylee
+202,Ukraine,129,2012,Affirmative Asylee
+203,Uzbekistan,84,2012,Affirmative Asylee
+204,Venezuela,967,2012,Affirmative Asylee
+205,Vietnam,15,2012,Affirmative Asylee
+206,Yemen,36,2012,Affirmative Asylee
+207,Zimbabwe,57,2012,Affirmative Asylee
+208,Afghanistan,96,2013,Affirmative Asylee
+209,Albania,11,2013,Affirmative Asylee
+210,Algeria,3,2013,Affirmative Asylee
+211,Angola,8,2013,Affirmative Asylee
+212,Armenia,75,2013,Affirmative Asylee
+213,Azerbaijan,21,2013,Affirmative Asylee
+214,Bahrain,4,2013,Affirmative Asylee
+215,Bangladesh,41,2013,Affirmative Asylee
+216,Belarus,132,2013,Affirmative Asylee
+217,Benin,3,2013,Affirmative Asylee
+218,Bolivia,8,2013,Affirmative Asylee
+219,Bosnia and Herzegovina,5,2013,Affirmative Asylee
+220,Brazil,27,2013,Affirmative Asylee
+221,Bulgaria,12,2013,Affirmative Asylee
+222,Burkina Faso,68,2013,Affirmative Asylee
+223,Burma,51,2013,Affirmative Asylee
+224,Burundi,24,2013,Affirmative Asylee
+225,Cambodia,-,2013,Affirmative Asylee
+226,Cameroon,154,2013,Affirmative Asylee
+227,Central African Republic,9,2013,Affirmative Asylee
+228,Chad,6,2013,Affirmative Asylee
+229,China,4051,2013,Affirmative Asylee
+230,Colombia,176,2013,Affirmative Asylee
+231,"Congo, Democratic Republic",51,2013,Affirmative Asylee
+232,"Congo, Republic",64,2013,Affirmative Asylee
+233,Cote d'Ivoire,59,2013,Affirmative Asylee
+234,Cuba,24,2013,Affirmative Asylee
+235,Djibouti,13,2013,Affirmative Asylee
+236,Dominican Republic,4,2013,Affirmative Asylee
+237,Ecuador,12,2013,Affirmative Asylee
+238,Egypt,3081,2013,Affirmative Asylee
+239,El Salvador,71,2013,Affirmative Asylee
+240,Eritrea,96,2013,Affirmative Asylee
+241,Ethiopia,468,2013,Affirmative Asylee
+242,Fiji,10,2013,Affirmative Asylee
+243,Gabon,-,2013,Affirmative Asylee
+244,Gambia,56,2013,Affirmative Asylee
+245,Georgia,12,2013,Affirmative Asylee
+246,Ghana,5,2013,Affirmative Asylee
+247,Guatemala,231,2013,Affirmative Asylee
+248,Guinea,29,2013,Affirmative Asylee
+249,Guyana,3,2013,Affirmative Asylee
+250,Haiti,436,2013,Affirmative Asylee
+251,Honduras,105,2013,Affirmative Asylee
+252,India,92,2013,Affirmative Asylee
+253,Indonesia,43,2013,Affirmative Asylee
+254,Iran,610,2013,Affirmative Asylee
+255,Iraq,411,2013,Affirmative Asylee
+256,Israel,3,2013,Affirmative Asylee
+257,Jamaica,36,2013,Affirmative Asylee
+258,Jordan,19,2013,Affirmative Asylee
+259,Kazakhstan,60,2013,Affirmative Asylee
+260,Kenya,89,2013,Affirmative Asylee
+261,Kosovo,18,2013,Affirmative Asylee
+262,Kuwait,D,2013,Affirmative Asylee
+263,Kyrgyzstan,84,2013,Affirmative Asylee
+264,Laos,D,2013,Affirmative Asylee
+265,Lebanon,13,2013,Affirmative Asylee
+266,Liberia,28,2013,Affirmative Asylee
+267,Libya,27,2013,Affirmative Asylee
+268,Malaysia,12,2013,Affirmative Asylee
+269,Mali,60,2013,Affirmative Asylee
+270,Mauritania,25,2013,Affirmative Asylee
+271,Mexico,202,2013,Affirmative Asylee
+272,Moldova,94,2013,Affirmative Asylee
+273,Mongolia,38,2013,Affirmative Asylee
+274,Montenegro,3,2013,Affirmative Asylee
+275,Morocco,4,2013,Affirmative Asylee
+276,Nepal,474,2013,Affirmative Asylee
+277,Nicaragua,5,2013,Affirmative Asylee
+278,Niger,D,2013,Affirmative Asylee
+279,Nigeria,64,2013,Affirmative Asylee
+280,North Macedonia,10,2013,Affirmative Asylee
+281,Pakistan,266,2013,Affirmative Asylee
+282,Peru,13,2013,Affirmative Asylee
+283,Philippines,7,2013,Affirmative Asylee
+284,Romania,D,2013,Affirmative Asylee
+285,Russia,335,2013,Affirmative Asylee
+286,Rwanda,56,2013,Affirmative Asylee
+287,Saudi Arabia,45,2013,Affirmative Asylee
+288,Senegal,7,2013,Affirmative Asylee
+289,Serbia,-,2013,Affirmative Asylee
+290,Serbia and Montenegro (former),17,2013,Affirmative Asylee
+291,Sierra Leone,6,2013,Affirmative Asylee
+292,Somalia,29,2013,Affirmative Asylee
+293,South Africa,D,2013,Affirmative Asylee
+294,South Sudan,-,2013,Affirmative Asylee
+295,Soviet Union (former),D,2013,Affirmative Asylee
+296,Sri Lanka,29,2013,Affirmative Asylee
+297,Sudan,85,2013,Affirmative Asylee
+298,Syria,758,2013,Affirmative Asylee
+299,Tajikistan,23,2013,Affirmative Asylee
+300,Tanzania,D,2013,Affirmative Asylee
+301,Togo,20,2013,Affirmative Asylee
+302,Tunisia,9,2013,Affirmative Asylee
+303,Turkey,26,2013,Affirmative Asylee
+304,Turkmenistan,6,2013,Affirmative Asylee
+305,Uganda,50,2013,Affirmative Asylee
+306,Ukraine,100,2013,Affirmative Asylee
+307,Uzbekistan,65,2013,Affirmative Asylee
+308,Venezuela,602,2013,Affirmative Asylee
+309,Vietnam,8,2013,Affirmative Asylee
+310,Yemen,43,2013,Affirmative Asylee
+311,Zimbabwe,40,2013,Affirmative Asylee
+312,Afghanistan,104,2014,Affirmative Asylee
+313,Albania,27,2014,Affirmative Asylee
+314,Algeria,9,2014,Affirmative Asylee
+315,Angola,7,2014,Affirmative Asylee
+316,Armenia,89,2014,Affirmative Asylee
+317,Azerbaijan,14,2014,Affirmative Asylee
+318,Bahrain,D,2014,Affirmative Asylee
+319,Bangladesh,137,2014,Affirmative Asylee
+320,Belarus,56,2014,Affirmative Asylee
+321,Benin,4,2014,Affirmative Asylee
+322,Bolivia,D,2014,Affirmative Asylee
+323,Bosnia and Herzegovina,3,2014,Affirmative Asylee
+324,Brazil,25,2014,Affirmative Asylee
+325,Bulgaria,18,2014,Affirmative Asylee
+326,Burkina Faso,67,2014,Affirmative Asylee
+327,Burma,32,2014,Affirmative Asylee
+328,Burundi,72,2014,Affirmative Asylee
+329,Cambodia,9,2014,Affirmative Asylee
+330,Cameroon,94,2014,Affirmative Asylee
+331,Central African Republic,14,2014,Affirmative Asylee
+332,Chad,8,2014,Affirmative Asylee
+333,China,3904,2014,Affirmative Asylee
+334,Colombia,243,2014,Affirmative Asylee
+335,"Congo, Democratic Republic",36,2014,Affirmative Asylee
+336,"Congo, Republic",45,2014,Affirmative Asylee
+337,Cote d'Ivoire,26,2014,Affirmative Asylee
+338,Cuba,9,2014,Affirmative Asylee
+339,Djibouti,8,2014,Affirmative Asylee
+340,Dominican Republic,3,2014,Affirmative Asylee
+341,Ecuador,15,2014,Affirmative Asylee
+342,Egypt,2593,2014,Affirmative Asylee
+343,El Salvador,182,2014,Affirmative Asylee
+344,Eritrea,154,2014,Affirmative Asylee
+345,Ethiopia,501,2014,Affirmative Asylee
+346,Fiji,20,2014,Affirmative Asylee
+347,Gabon,5,2014,Affirmative Asylee
+348,Gambia,52,2014,Affirmative Asylee
+349,Georgia,17,2014,Affirmative Asylee
+350,Ghana,4,2014,Affirmative Asylee
+351,Guatemala,313,2014,Affirmative Asylee
+352,Guinea,27,2014,Affirmative Asylee
+353,Guyana,10,2014,Affirmative Asylee
+354,Haiti,456,2014,Affirmative Asylee
+355,Honduras,86,2014,Affirmative Asylee
+356,India,112,2014,Affirmative Asylee
+357,Indonesia,25,2014,Affirmative Asylee
+358,Iran,570,2014,Affirmative Asylee
+359,Iraq,546,2014,Affirmative Asylee
+360,Israel,-,2014,Affirmative Asylee
+361,Jamaica,32,2014,Affirmative Asylee
+362,Jordan,36,2014,Affirmative Asylee
+363,Kazakhstan,61,2014,Affirmative Asylee
+364,Kenya,61,2014,Affirmative Asylee
+365,Kosovo,34,2014,Affirmative Asylee
+366,Kuwait,7,2014,Affirmative Asylee
+367,Kyrgyzstan,101,2014,Affirmative Asylee
+368,Laos,3,2014,Affirmative Asylee
+369,Lebanon,17,2014,Affirmative Asylee
+370,Liberia,12,2014,Affirmative Asylee
+371,Libya,17,2014,Affirmative Asylee
+372,Malaysia,8,2014,Affirmative Asylee
+373,Mali,39,2014,Affirmative Asylee
+374,Mauritania,41,2014,Affirmative Asylee
+375,Mexico,464,2014,Affirmative Asylee
+376,Moldova,56,2014,Affirmative Asylee
+377,Mongolia,29,2014,Affirmative Asylee
+378,Montenegro,3,2014,Affirmative Asylee
+379,Morocco,4,2014,Affirmative Asylee
+380,Nepal,263,2014,Affirmative Asylee
+381,Nicaragua,8,2014,Affirmative Asylee
+382,Niger,3,2014,Affirmative Asylee
+383,Nigeria,49,2014,Affirmative Asylee
+384,North Macedonia,12,2014,Affirmative Asylee
+385,Pakistan,274,2014,Affirmative Asylee
+386,Peru,11,2014,Affirmative Asylee
+387,Philippines,D,2014,Affirmative Asylee
+388,Romania,9,2014,Affirmative Asylee
+389,Russia,208,2014,Affirmative Asylee
+390,Rwanda,52,2014,Affirmative Asylee
+391,Saudi Arabia,21,2014,Affirmative Asylee
+392,Senegal,11,2014,Affirmative Asylee
+393,Serbia,-,2014,Affirmative Asylee
+394,Serbia and Montenegro (former),19,2014,Affirmative Asylee
+395,Sierra Leone,18,2014,Affirmative Asylee
+396,Somalia,22,2014,Affirmative Asylee
+397,South Africa,-,2014,Affirmative Asylee
+398,South Sudan,-,2014,Affirmative Asylee
+399,Soviet Union (former),-,2014,Affirmative Asylee
+400,Sri Lanka,28,2014,Affirmative Asylee
+401,Sudan,59,2014,Affirmative Asylee
+402,Syria,870,2014,Affirmative Asylee
+403,Tajikistan,21,2014,Affirmative Asylee
+404,Tanzania,12,2014,Affirmative Asylee
+405,Togo,20,2014,Affirmative Asylee
+406,Tunisia,6,2014,Affirmative Asylee
+407,Turkey,6,2014,Affirmative Asylee
+408,Turkmenistan,5,2014,Affirmative Asylee
+409,Uganda,57,2014,Affirmative Asylee
+410,Ukraine,93,2014,Affirmative Asylee
+411,Uzbekistan,54,2014,Affirmative Asylee
+412,Venezuela,315,2014,Affirmative Asylee
+413,Vietnam,9,2014,Affirmative Asylee
+414,Yemen,26,2014,Affirmative Asylee
+415,Zimbabwe,17,2014,Affirmative Asylee
+416,Afghanistan,160,2015,Affirmative Asylee
+417,Albania,24,2015,Affirmative Asylee
+418,Algeria,6,2015,Affirmative Asylee
+419,Angola,29,2015,Affirmative Asylee
+420,Armenia,47,2015,Affirmative Asylee
+421,Azerbaijan,15,2015,Affirmative Asylee
+422,Bahrain,3,2015,Affirmative Asylee
+423,Bangladesh,131,2015,Affirmative Asylee
+424,Belarus,79,2015,Affirmative Asylee
+425,Benin,5,2015,Affirmative Asylee
+426,Bolivia,3,2015,Affirmative Asylee
+427,Bosnia and Herzegovina,7,2015,Affirmative Asylee
+428,Brazil,30,2015,Affirmative Asylee
+429,Bulgaria,12,2015,Affirmative Asylee
+430,Burkina Faso,42,2015,Affirmative Asylee
+431,Burma,44,2015,Affirmative Asylee
+432,Burundi,75,2015,Affirmative Asylee
+433,Cambodia,-,2015,Affirmative Asylee
+434,Cameroon,92,2015,Affirmative Asylee
+435,Central African Republic,11,2015,Affirmative Asylee
+436,Chad,8,2015,Affirmative Asylee
+437,China,2575,2015,Affirmative Asylee
+438,Colombia,244,2015,Affirmative Asylee
+439,"Congo, Democratic Republic",68,2015,Affirmative Asylee
+440,"Congo, Republic",61,2015,Affirmative Asylee
+441,Cote d'Ivoire,39,2015,Affirmative Asylee
+442,Cuba,6,2015,Affirmative Asylee
+443,Djibouti,50,2015,Affirmative Asylee
+444,Dominican Republic,7,2015,Affirmative Asylee
+445,Ecuador,137,2015,Affirmative Asylee
+446,Egypt,1522,2015,Affirmative Asylee
+447,El Salvador,1857,2015,Affirmative Asylee
+448,Eritrea,244,2015,Affirmative Asylee
+449,Ethiopia,612,2015,Affirmative Asylee
+450,Fiji,4,2015,Affirmative Asylee
+451,Gabon,3,2015,Affirmative Asylee
+452,Gambia,79,2015,Affirmative Asylee
+453,Georgia,22,2015,Affirmative Asylee
+454,Ghana,5,2015,Affirmative Asylee
+455,Guatemala,1695,2015,Affirmative Asylee
+456,Guinea,60,2015,Affirmative Asylee
+457,Guyana,3,2015,Affirmative Asylee
+458,Haiti,340,2015,Affirmative Asylee
+459,Honduras,1098,2015,Affirmative Asylee
+460,India,175,2015,Affirmative Asylee
+461,Indonesia,13,2015,Affirmative Asylee
+462,Iran,644,2015,Affirmative Asylee
+463,Iraq,701,2015,Affirmative Asylee
+464,Israel,-,2015,Affirmative Asylee
+465,Jamaica,41,2015,Affirmative Asylee
+466,Jordan,41,2015,Affirmative Asylee
+467,Kazakhstan,64,2015,Affirmative Asylee
+468,Kenya,55,2015,Affirmative Asylee
+469,Kosovo,50,2015,Affirmative Asylee
+470,Kuwait,16,2015,Affirmative Asylee
+471,Kyrgyzstan,106,2015,Affirmative Asylee
+472,Laos,D,2015,Affirmative Asylee
+473,Lebanon,25,2015,Affirmative Asylee
+474,Liberia,31,2015,Affirmative Asylee
+475,Libya,46,2015,Affirmative Asylee
+476,Malaysia,3,2015,Affirmative Asylee
+477,Mali,67,2015,Affirmative Asylee
+478,Mauritania,42,2015,Affirmative Asylee
+479,Mexico,654,2015,Affirmative Asylee
+480,Moldova,67,2015,Affirmative Asylee
+481,Mongolia,42,2015,Affirmative Asylee
+482,Montenegro,4,2015,Affirmative Asylee
+483,Morocco,8,2015,Affirmative Asylee
+484,Nepal,355,2015,Affirmative Asylee
+485,Nicaragua,31,2015,Affirmative Asylee
+486,Niger,4,2015,Affirmative Asylee
+487,Nigeria,98,2015,Affirmative Asylee
+488,North Macedonia,4,2015,Affirmative Asylee
+489,Pakistan,271,2015,Affirmative Asylee
+490,Peru,18,2015,Affirmative Asylee
+491,Philippines,3,2015,Affirmative Asylee
+492,Romania,D,2015,Affirmative Asylee
+493,Russia,300,2015,Affirmative Asylee
+494,Rwanda,67,2015,Affirmative Asylee
+495,Saudi Arabia,23,2015,Affirmative Asylee
+496,Senegal,13,2015,Affirmative Asylee
+497,Serbia,-,2015,Affirmative Asylee
+498,Serbia and Montenegro (former),10,2015,Affirmative Asylee
+499,Sierra Leone,13,2015,Affirmative Asylee
+500,Somalia,12,2015,Affirmative Asylee
+501,South Africa,5,2015,Affirmative Asylee
+502,South Sudan,-,2015,Affirmative Asylee
+503,Soviet Union (former),-,2015,Affirmative Asylee
+504,Sri Lanka,30,2015,Affirmative Asylee
+505,Sudan,104,2015,Affirmative Asylee
+506,Syria,891,2015,Affirmative Asylee
+507,Tajikistan,15,2015,Affirmative Asylee
+508,Tanzania,4,2015,Affirmative Asylee
+509,Togo,11,2015,Affirmative Asylee
+510,Tunisia,6,2015,Affirmative Asylee
+511,Turkey,17,2015,Affirmative Asylee
+512,Turkmenistan,10,2015,Affirmative Asylee
+513,Uganda,70,2015,Affirmative Asylee
+514,Ukraine,137,2015,Affirmative Asylee
+515,Uzbekistan,60,2015,Affirmative Asylee
+516,Venezuela,457,2015,Affirmative Asylee
+517,Vietnam,12,2015,Affirmative Asylee
+518,Yemen,55,2015,Affirmative Asylee
+519,Zimbabwe,32,2015,Affirmative Asylee
+520,Afghanistan,85,2016,Affirmative Asylee
+521,Albania,6,2016,Affirmative Asylee
+522,Algeria,4,2016,Affirmative Asylee
+523,Angola,7,2016,Affirmative Asylee
+524,Armenia,15,2016,Affirmative Asylee
+525,Azerbaijan,11,2016,Affirmative Asylee
+526,Bahrain,-,2016,Affirmative Asylee
+527,Bangladesh,43,2016,Affirmative Asylee
+528,Belarus,18,2016,Affirmative Asylee
+529,Benin,D,2016,Affirmative Asylee
+530,Bolivia,4,2016,Affirmative Asylee
+531,Bosnia and Herzegovina,3,2016,Affirmative Asylee
+532,Brazil,17,2016,Affirmative Asylee
+533,Bulgaria,4,2016,Affirmative Asylee
+534,Burkina Faso,29,2016,Affirmative Asylee
+535,Burma,7,2016,Affirmative Asylee
+536,Burundi,47,2016,Affirmative Asylee
+537,Cambodia,-,2016,Affirmative Asylee
+538,Cameroon,33,2016,Affirmative Asylee
+539,Central African Republic,4,2016,Affirmative Asylee
+540,Chad,6,2016,Affirmative Asylee
+541,China,1385,2016,Affirmative Asylee
+542,Colombia,72,2016,Affirmative Asylee
+543,"Congo, Democratic Republic",32,2016,Affirmative Asylee
+544,"Congo, Republic",27,2016,Affirmative Asylee
+545,Cote d'Ivoire,17,2016,Affirmative Asylee
+546,Cuba,4,2016,Affirmative Asylee
+547,Djibouti,39,2016,Affirmative Asylee
+548,Dominican Republic,3,2016,Affirmative Asylee
+549,Ecuador,82,2016,Affirmative Asylee
+550,Egypt,686,2016,Affirmative Asylee
+551,El Salvador,1379,2016,Affirmative Asylee
+552,Eritrea,256,2016,Affirmative Asylee
+553,Ethiopia,297,2016,Affirmative Asylee
+554,Fiji,7,2016,Affirmative Asylee
+555,Gabon,-,2016,Affirmative Asylee
+556,Gambia,61,2016,Affirmative Asylee
+557,Georgia,27,2016,Affirmative Asylee
+558,Ghana,12,2016,Affirmative Asylee
+559,Guatemala,1273,2016,Affirmative Asylee
+560,Guinea,25,2016,Affirmative Asylee
+561,Guyana,-,2016,Affirmative Asylee
+562,Haiti,99,2016,Affirmative Asylee
+563,Honduras,855,2016,Affirmative Asylee
+564,India,163,2016,Affirmative Asylee
+565,Indonesia,12,2016,Affirmative Asylee
+566,Iran,381,2016,Affirmative Asylee
+567,Iraq,597,2016,Affirmative Asylee
+568,Israel,3,2016,Affirmative Asylee
+569,Jamaica,25,2016,Affirmative Asylee
+570,Jordan,34,2016,Affirmative Asylee
+571,Kazakhstan,39,2016,Affirmative Asylee
+572,Kenya,27,2016,Affirmative Asylee
+573,Kosovo,16,2016,Affirmative Asylee
+574,Kuwait,3,2016,Affirmative Asylee
+575,Kyrgyzstan,71,2016,Affirmative Asylee
+576,Laos,D,2016,Affirmative Asylee
+577,Lebanon,23,2016,Affirmative Asylee
+578,Liberia,16,2016,Affirmative Asylee
+579,Libya,39,2016,Affirmative Asylee
+580,Malaysia,D,2016,Affirmative Asylee
+581,Mali,37,2016,Affirmative Asylee
+582,Mauritania,27,2016,Affirmative Asylee
+583,Mexico,449,2016,Affirmative Asylee
+584,Moldova,70,2016,Affirmative Asylee
+585,Mongolia,32,2016,Affirmative Asylee
+586,Montenegro,D,2016,Affirmative Asylee
+587,Morocco,5,2016,Affirmative Asylee
+588,Nepal,235,2016,Affirmative Asylee
+589,Nicaragua,20,2016,Affirmative Asylee
+590,Niger,9,2016,Affirmative Asylee
+591,Nigeria,70,2016,Affirmative Asylee
+592,North Macedonia,-,2016,Affirmative Asylee
+593,Pakistan,260,2016,Affirmative Asylee
+594,Peru,9,2016,Affirmative Asylee
+595,Philippines,9,2016,Affirmative Asylee
+596,Romania,5,2016,Affirmative Asylee
+597,Russia,206,2016,Affirmative Asylee
+598,Rwanda,51,2016,Affirmative Asylee
+599,Saudi Arabia,31,2016,Affirmative Asylee
+600,Senegal,9,2016,Affirmative Asylee
+601,Serbia,-,2016,Affirmative Asylee
+602,Serbia and Montenegro (former),4,2016,Affirmative Asylee
+603,Sierra Leone,5,2016,Affirmative Asylee
+604,Somalia,9,2016,Affirmative Asylee
+605,South Africa,D,2016,Affirmative Asylee
+606,South Sudan,-,2016,Affirmative Asylee
+607,Soviet Union (former),-,2016,Affirmative Asylee
+608,Sri Lanka,22,2016,Affirmative Asylee
+609,Sudan,52,2016,Affirmative Asylee
+610,Syria,671,2016,Affirmative Asylee
+611,Tajikistan,20,2016,Affirmative Asylee
+612,Tanzania,3,2016,Affirmative Asylee
+613,Togo,10,2016,Affirmative Asylee
+614,Tunisia,8,2016,Affirmative Asylee
+615,Turkey,12,2016,Affirmative Asylee
+616,Turkmenistan,8,2016,Affirmative Asylee
+617,Uganda,44,2016,Affirmative Asylee
+618,Ukraine,124,2016,Affirmative Asylee
+619,Uzbekistan,72,2016,Affirmative Asylee
+620,Venezuela,316,2016,Affirmative Asylee
+621,Vietnam,8,2016,Affirmative Asylee
+622,Yemen,39,2016,Affirmative Asylee
+623,Zimbabwe,13,2016,Affirmative Asylee
+624,Afghanistan,86,2017,Affirmative Asylee
+625,Albania,18,2017,Affirmative Asylee
+626,Algeria,6,2017,Affirmative Asylee
+627,Angola,14,2017,Affirmative Asylee
+628,Armenia,32,2017,Affirmative Asylee
+629,Azerbaijan,17,2017,Affirmative Asylee
+630,Bahrain,D,2017,Affirmative Asylee
+631,Bangladesh,109,2017,Affirmative Asylee
+632,Belarus,40,2017,Affirmative Asylee
+633,Benin,10,2017,Affirmative Asylee
+634,Bolivia,D,2017,Affirmative Asylee
+635,Bosnia and Herzegovina,D,2017,Affirmative Asylee
+636,Brazil,29,2017,Affirmative Asylee
+637,Bulgaria,5,2017,Affirmative Asylee
+638,Burkina Faso,64,2017,Affirmative Asylee
+639,Burma,17,2017,Affirmative Asylee
+640,Burundi,35,2017,Affirmative Asylee
+641,Cambodia,D,2017,Affirmative Asylee
+642,Cameroon,70,2017,Affirmative Asylee
+643,Central African Republic,10,2017,Affirmative Asylee
+644,Chad,7,2017,Affirmative Asylee
+645,China,2820,2017,Affirmative Asylee
+646,Colombia,72,2017,Affirmative Asylee
+647,"Congo, Democratic Republic",51,2017,Affirmative Asylee
+648,"Congo, Republic",52,2017,Affirmative Asylee
+649,Cote d'Ivoire,27,2017,Affirmative Asylee
+650,Cuba,D,2017,Affirmative Asylee
+651,Djibouti,16,2017,Affirmative Asylee
+652,Dominican Republic,D,2017,Affirmative Asylee
+653,Ecuador,64,2017,Affirmative Asylee
+654,Egypt,1014,2017,Affirmative Asylee
+655,El Salvador,2110,2017,Affirmative Asylee
+656,Eritrea,348,2017,Affirmative Asylee
+657,Ethiopia,291,2017,Affirmative Asylee
+658,Fiji,5,2017,Affirmative Asylee
+659,Gabon,D,2017,Affirmative Asylee
+660,Gambia,82,2017,Affirmative Asylee
+661,Georgia,26,2017,Affirmative Asylee
+662,Ghana,5,2017,Affirmative Asylee
+663,Guatemala,1997,2017,Affirmative Asylee
+664,Guinea,52,2017,Affirmative Asylee
+665,Guyana,4,2017,Affirmative Asylee
+666,Haiti,55,2017,Affirmative Asylee
+667,Honduras,1085,2017,Affirmative Asylee
+668,India,214,2017,Affirmative Asylee
+669,Indonesia,33,2017,Affirmative Asylee
+670,Iran,313,2017,Affirmative Asylee
+671,Iraq,469,2017,Affirmative Asylee
+672,Israel,15,2017,Affirmative Asylee
+673,Jamaica,38,2017,Affirmative Asylee
+674,Jordan,51,2017,Affirmative Asylee
+675,Kazakhstan,41,2017,Affirmative Asylee
+676,Kenya,70,2017,Affirmative Asylee
+677,Kosovo,29,2017,Affirmative Asylee
+678,Kuwait,9,2017,Affirmative Asylee
+679,Kyrgyzstan,97,2017,Affirmative Asylee
+680,Laos,3,2017,Affirmative Asylee
+681,Lebanon,27,2017,Affirmative Asylee
+682,Liberia,34,2017,Affirmative Asylee
+683,Libya,19,2017,Affirmative Asylee
+684,Malaysia,3,2017,Affirmative Asylee
+685,Mali,22,2017,Affirmative Asylee
+686,Mauritania,29,2017,Affirmative Asylee
+687,Mexico,476,2017,Affirmative Asylee
+688,Moldova,51,2017,Affirmative Asylee
+689,Mongolia,35,2017,Affirmative Asylee
+690,Montenegro,D,2017,Affirmative Asylee
+691,Morocco,5,2017,Affirmative Asylee
+692,Nepal,147,2017,Affirmative Asylee
+693,Nicaragua,30,2017,Affirmative Asylee
+694,Niger,7,2017,Affirmative Asylee
+695,Nigeria,123,2017,Affirmative Asylee
+696,North Macedonia,4,2017,Affirmative Asylee
+697,Pakistan,242,2017,Affirmative Asylee
+698,Peru,26,2017,Affirmative Asylee
+699,Philippines,7,2017,Affirmative Asylee
+700,Romania,10,2017,Affirmative Asylee
+701,Russia,286,2017,Affirmative Asylee
+702,Rwanda,69,2017,Affirmative Asylee
+703,Saudi Arabia,48,2017,Affirmative Asylee
+704,Senegal,14,2017,Affirmative Asylee
+705,Serbia,-,2017,Affirmative Asylee
+706,Serbia and Montenegro (former),11,2017,Affirmative Asylee
+707,Sierra Leone,16,2017,Affirmative Asylee
+708,Somalia,13,2017,Affirmative Asylee
+709,South Africa,-,2017,Affirmative Asylee
+710,South Sudan,D,2017,Affirmative Asylee
+711,Soviet Union (former),-,2017,Affirmative Asylee
+712,Sri Lanka,28,2017,Affirmative Asylee
+713,Sudan,65,2017,Affirmative Asylee
+714,Syria,630,2017,Affirmative Asylee
+715,Tajikistan,8,2017,Affirmative Asylee
+716,Tanzania,5,2017,Affirmative Asylee
+717,Togo,13,2017,Affirmative Asylee
+718,Tunisia,D,2017,Affirmative Asylee
+719,Turkey,15,2017,Affirmative Asylee
+720,Turkmenistan,15,2017,Affirmative Asylee
+721,Uganda,57,2017,Affirmative Asylee
+722,Ukraine,191,2017,Affirmative Asylee
+723,Uzbekistan,48,2017,Affirmative Asylee
+724,Venezuela,477,2017,Affirmative Asylee
+725,Vietnam,14,2017,Affirmative Asylee
+726,Yemen,47,2017,Affirmative Asylee
+727,Zimbabwe,27,2017,Affirmative Asylee
+728,Afghanistan,78,2018,Affirmative Asylee
+729,Albania,45,2018,Affirmative Asylee
+730,Algeria,18,2018,Affirmative Asylee
+731,Angola,36,2018,Affirmative Asylee
+732,Armenia,107,2018,Affirmative Asylee
+733,Azerbaijan,72,2018,Affirmative Asylee
+734,Bahrain,D,2018,Affirmative Asylee
+735,Bangladesh,142,2018,Affirmative Asylee
+736,Belarus,136,2018,Affirmative Asylee
+737,Benin,3,2018,Affirmative Asylee
+738,Bolivia,5,2018,Affirmative Asylee
+739,Bosnia and Herzegovina,9,2018,Affirmative Asylee
+740,Brazil,110,2018,Affirmative Asylee
+741,Bulgaria,6,2018,Affirmative Asylee
+742,Burkina Faso,115,2018,Affirmative Asylee
+743,Burma,74,2018,Affirmative Asylee
+744,Burundi,42,2018,Affirmative Asylee
+745,Cambodia,10,2018,Affirmative Asylee
+746,Cameroon,178,2018,Affirmative Asylee
+747,Central African Republic,18,2018,Affirmative Asylee
+748,Chad,30,2018,Affirmative Asylee
+749,China,3750,2018,Affirmative Asylee
+750,Colombia,321,2018,Affirmative Asylee
+751,"Congo, Democratic Republic",75,2018,Affirmative Asylee
+752,"Congo, Republic",92,2018,Affirmative Asylee
+753,Cote d'Ivoire,41,2018,Affirmative Asylee
+754,Cuba,D,2018,Affirmative Asylee
+755,Djibouti,23,2018,Affirmative Asylee
+756,Dominican Republic,5,2018,Affirmative Asylee
+757,Ecuador,61,2018,Affirmative Asylee
+758,Egypt,1401,2018,Affirmative Asylee
+759,El Salvador,1141,2018,Affirmative Asylee
+760,Eritrea,335,2018,Affirmative Asylee
+761,Ethiopia,406,2018,Affirmative Asylee
+762,Fiji,3,2018,Affirmative Asylee
+763,Gabon,9,2018,Affirmative Asylee
+764,Gambia,64,2018,Affirmative Asylee
+765,Georgia,46,2018,Affirmative Asylee
+766,Ghana,10,2018,Affirmative Asylee
+767,Guatemala,1303,2018,Affirmative Asylee
+768,Guinea,66,2018,Affirmative Asylee
+769,Guyana,13,2018,Affirmative Asylee
+770,Haiti,164,2018,Affirmative Asylee
+771,Honduras,815,2018,Affirmative Asylee
+772,India,351,2018,Affirmative Asylee
+773,Indonesia,54,2018,Affirmative Asylee
+774,Iran,301,2018,Affirmative Asylee
+775,Iraq,397,2018,Affirmative Asylee
+776,Israel,18,2018,Affirmative Asylee
+777,Jamaica,92,2018,Affirmative Asylee
+778,Jordan,114,2018,Affirmative Asylee
+779,Kazakhstan,107,2018,Affirmative Asylee
+780,Kenya,90,2018,Affirmative Asylee
+781,Kosovo,22,2018,Affirmative Asylee
+782,Kuwait,14,2018,Affirmative Asylee
+783,Kyrgyzstan,90,2018,Affirmative Asylee
+784,Laos,10,2018,Affirmative Asylee
+785,Lebanon,38,2018,Affirmative Asylee
+786,Liberia,43,2018,Affirmative Asylee
+787,Libya,104,2018,Affirmative Asylee
+788,Malaysia,10,2018,Affirmative Asylee
+789,Mali,39,2018,Affirmative Asylee
+790,Mauritania,74,2018,Affirmative Asylee
+791,Mexico,715,2018,Affirmative Asylee
+792,Moldova,98,2018,Affirmative Asylee
+793,Mongolia,56,2018,Affirmative Asylee
+794,Montenegro,6,2018,Affirmative Asylee
+795,Morocco,9,2018,Affirmative Asylee
+796,Nepal,91,2018,Affirmative Asylee
+797,Nicaragua,32,2018,Affirmative Asylee
+798,Niger,21,2018,Affirmative Asylee
+799,Nigeria,452,2018,Affirmative Asylee
+800,North Macedonia,12,2018,Affirmative Asylee
+801,Pakistan,458,2018,Affirmative Asylee
+802,Peru,26,2018,Affirmative Asylee
+803,Philippines,19,2018,Affirmative Asylee
+804,Romania,15,2018,Affirmative Asylee
+805,Russia,756,2018,Affirmative Asylee
+806,Rwanda,83,2018,Affirmative Asylee
+807,Saudi Arabia,68,2018,Affirmative Asylee
+808,Senegal,22,2018,Affirmative Asylee
+809,Serbia,-,2018,Affirmative Asylee
+810,Serbia and Montenegro (former),45,2018,Affirmative Asylee
+811,Sierra Leone,36,2018,Affirmative Asylee
+812,Somalia,12,2018,Affirmative Asylee
+813,South Africa,8,2018,Affirmative Asylee
+814,South Sudan,5,2018,Affirmative Asylee
+815,Soviet Union (former),-,2018,Affirmative Asylee
+816,Sri Lanka,41,2018,Affirmative Asylee
+817,Sudan,97,2018,Affirmative Asylee
+818,Syria,545,2018,Affirmative Asylee
+819,Tajikistan,20,2018,Affirmative Asylee
+820,Tanzania,8,2018,Affirmative Asylee
+821,Togo,29,2018,Affirmative Asylee
+822,Tunisia,12,2018,Affirmative Asylee
+823,Turkey,475,2018,Affirmative Asylee
+824,Turkmenistan,26,2018,Affirmative Asylee
+825,Uganda,165,2018,Affirmative Asylee
+826,Ukraine,368,2018,Affirmative Asylee
+827,Uzbekistan,122,2018,Affirmative Asylee
+828,Venezuela,5701,2018,Affirmative Asylee
+829,Vietnam,34,2018,Affirmative Asylee
+830,Yemen,56,2018,Affirmative Asylee
+831,Zimbabwe,60,2018,Affirmative Asylee
+832,Afghanistan,79,2019,Affirmative Asylee
+833,Albania,48,2019,Affirmative Asylee
+834,Algeria,29,2019,Affirmative Asylee
+835,Angola,31,2019,Affirmative Asylee
+836,Armenia,124,2019,Affirmative Asylee
+837,Azerbaijan,94,2019,Affirmative Asylee
+838,Bahrain,D,2019,Affirmative Asylee
+839,Bangladesh,67,2019,Affirmative Asylee
+840,Belarus,178,2019,Affirmative Asylee
+841,Benin,3,2019,Affirmative Asylee
+842,Bolivia,8,2019,Affirmative Asylee
+843,Bosnia and Herzegovina,11,2019,Affirmative Asylee
+844,Brazil,185,2019,Affirmative Asylee
+845,Bulgaria,12,2019,Affirmative Asylee
+846,Burkina Faso,72,2019,Affirmative Asylee
+847,Burma,129,2019,Affirmative Asylee
+848,Burundi,40,2019,Affirmative Asylee
+849,Cambodia,10,2019,Affirmative Asylee
+850,Cameroon,261,2019,Affirmative Asylee
+851,Central African Republic,17,2019,Affirmative Asylee
+852,Chad,7,2019,Affirmative Asylee
+853,China,3989,2019,Affirmative Asylee
+854,Colombia,278,2019,Affirmative Asylee
+855,"Congo, Democratic Republic",83,2019,Affirmative Asylee
+856,"Congo, Republic",93,2019,Affirmative Asylee
+857,Cote d'Ivoire,29,2019,Affirmative Asylee
+858,Cuba,10,2019,Affirmative Asylee
+859,Djibouti,35,2019,Affirmative Asylee
+860,Dominican Republic,15,2019,Affirmative Asylee
+861,Ecuador,36,2019,Affirmative Asylee
+862,Egypt,2125,2019,Affirmative Asylee
+863,El Salvador,875,2019,Affirmative Asylee
+864,Eritrea,254,2019,Affirmative Asylee
+865,Ethiopia,301,2019,Affirmative Asylee
+866,Fiji,3,2019,Affirmative Asylee
+867,Gabon,6,2019,Affirmative Asylee
+868,Gambia,52,2019,Affirmative Asylee
+869,Georgia,57,2019,Affirmative Asylee
+870,Ghana,8,2019,Affirmative Asylee
+871,Guatemala,1041,2019,Affirmative Asylee
+872,Guinea,59,2019,Affirmative Asylee
+873,Guyana,21,2019,Affirmative Asylee
+874,Haiti,185,2019,Affirmative Asylee
+875,Honduras,524,2019,Affirmative Asylee
+876,India,329,2019,Affirmative Asylee
+877,Indonesia,84,2019,Affirmative Asylee
+878,Iran,341,2019,Affirmative Asylee
+879,Iraq,375,2019,Affirmative Asylee
+880,Israel,6,2019,Affirmative Asylee
+881,Jamaica,89,2019,Affirmative Asylee
+882,Jordan,103,2019,Affirmative Asylee
+883,Kazakhstan,245,2019,Affirmative Asylee
+884,Kenya,125,2019,Affirmative Asylee
+885,Kosovo,27,2019,Affirmative Asylee
+886,Kuwait,8,2019,Affirmative Asylee
+887,Kyrgyzstan,91,2019,Affirmative Asylee
+888,Laos,D,2019,Affirmative Asylee
+889,Lebanon,30,2019,Affirmative Asylee
+890,Liberia,106,2019,Affirmative Asylee
+891,Libya,63,2019,Affirmative Asylee
+892,Malaysia,6,2019,Affirmative Asylee
+893,Mali,17,2019,Affirmative Asylee
+894,Mauritania,71,2019,Affirmative Asylee
+895,Mexico,783,2019,Affirmative Asylee
+896,Moldova,68,2019,Affirmative Asylee
+897,Mongolia,72,2019,Affirmative Asylee
+898,Montenegro,15,2019,Affirmative Asylee
+899,Morocco,17,2019,Affirmative Asylee
+900,Nepal,36,2019,Affirmative Asylee
+901,Nicaragua,313,2019,Affirmative Asylee
+902,Niger,4,2019,Affirmative Asylee
+903,Nigeria,764,2019,Affirmative Asylee
+904,North Macedonia,19,2019,Affirmative Asylee
+905,Pakistan,386,2019,Affirmative Asylee
+906,Peru,30,2019,Affirmative Asylee
+907,Philippines,11,2019,Affirmative Asylee
+908,Romania,16,2019,Affirmative Asylee
+909,Russia,1097,2019,Affirmative Asylee
+910,Rwanda,131,2019,Affirmative Asylee
+911,Saudi Arabia,82,2019,Affirmative Asylee
+912,Senegal,15,2019,Affirmative Asylee
+913,Serbia,26,2019,Affirmative Asylee
+914,Serbia and Montenegro (former),16,2019,Affirmative Asylee
+915,Sierra Leone,19,2019,Affirmative Asylee
+916,Somalia,20,2019,Affirmative Asylee
+917,South Africa,15,2019,Affirmative Asylee
+918,South Sudan,18,2019,Affirmative Asylee
+919,Soviet Union (former),25,2019,Affirmative Asylee
+920,Sri Lanka,38,2019,Affirmative Asylee
+921,Sudan,122,2019,Affirmative Asylee
+922,Syria,501,2019,Affirmative Asylee
+923,Tajikistan,13,2019,Affirmative Asylee
+924,Tanzania,6,2019,Affirmative Asylee
+925,Togo,39,2019,Affirmative Asylee
+926,Tunisia,4,2019,Affirmative Asylee
+927,Turkey,1714,2019,Affirmative Asylee
+928,Turkmenistan,54,2019,Affirmative Asylee
+929,Uganda,170,2019,Affirmative Asylee
+930,Ukraine,280,2019,Affirmative Asylee
+931,Uzbekistan,81,2019,Affirmative Asylee
+932,Venezuela,6200,2019,Affirmative Asylee
+933,Vietnam,36,2019,Affirmative Asylee
+934,Yemen,109,2019,Affirmative Asylee
+935,Zimbabwe,73,2019,Affirmative Asylee
+936,Afghanistan,46,2020,Affirmative Asylee
+937,Albania,14,2020,Affirmative Asylee
+938,Algeria,11,2020,Affirmative Asylee
+939,Angola,20,2020,Affirmative Asylee
+940,Armenia,63,2020,Affirmative Asylee
+941,Azerbaijan,75,2020,Affirmative Asylee
+942,Bahrain,D,2020,Affirmative Asylee
+943,Bangladesh,45,2020,Affirmative Asylee
+944,Belarus,70,2020,Affirmative Asylee
+945,Benin,6,2020,Affirmative Asylee
+946,Bolivia,-,2020,Affirmative Asylee
+947,Bosnia and Herzegovina,5,2020,Affirmative Asylee
+948,Brazil,130,2020,Affirmative Asylee
+949,Bulgaria,3,2020,Affirmative Asylee
+950,Burkina Faso,40,2020,Affirmative Asylee
+951,Burma,102,2020,Affirmative Asylee
+952,Burundi,36,2020,Affirmative Asylee
+953,Cambodia,D,2020,Affirmative Asylee
+954,Cameroon,158,2020,Affirmative Asylee
+955,Central African Republic,6,2020,Affirmative Asylee
+956,Chad,15,2020,Affirmative Asylee
+957,China,2855,2020,Affirmative Asylee
+958,Colombia,282,2020,Affirmative Asylee
+959,"Congo, Democratic Republic",59,2020,Affirmative Asylee
+960,"Congo, Republic",57,2020,Affirmative Asylee
+961,Cote d'Ivoire,28,2020,Affirmative Asylee
+962,Cuba,16,2020,Affirmative Asylee
+963,Djibouti,34,2020,Affirmative Asylee
+964,Dominican Republic,9,2020,Affirmative Asylee
+965,Ecuador,24,2020,Affirmative Asylee
+966,Egypt,1336,2020,Affirmative Asylee
+967,El Salvador,291,2020,Affirmative Asylee
+968,Eritrea,178,2020,Affirmative Asylee
+969,Ethiopia,222,2020,Affirmative Asylee
+970,Fiji,D,2020,Affirmative Asylee
+971,Gabon,10,2020,Affirmative Asylee
+972,Gambia,33,2020,Affirmative Asylee
+973,Georgia,31,2020,Affirmative Asylee
+974,Ghana,7,2020,Affirmative Asylee
+975,Guatemala,441,2020,Affirmative Asylee
+976,Guinea,52,2020,Affirmative Asylee
+977,Guyana,4,2020,Affirmative Asylee
+978,Haiti,152,2020,Affirmative Asylee
+979,Honduras,256,2020,Affirmative Asylee
+980,India,158,2020,Affirmative Asylee
+981,Indonesia,37,2020,Affirmative Asylee
+982,Iran,203,2020,Affirmative Asylee
+983,Iraq,184,2020,Affirmative Asylee
+984,Israel,D,2020,Affirmative Asylee
+985,Jamaica,40,2020,Affirmative Asylee
+986,Jordan,54,2020,Affirmative Asylee
+987,Kazakhstan,152,2020,Affirmative Asylee
+988,Kenya,60,2020,Affirmative Asylee
+989,Kosovo,7,2020,Affirmative Asylee
+990,Kuwait,3,2020,Affirmative Asylee
+991,Kyrgyzstan,76,2020,Affirmative Asylee
+992,Laos,11,2020,Affirmative Asylee
+993,Lebanon,32,2020,Affirmative Asylee
+994,Liberia,52,2020,Affirmative Asylee
+995,Libya,48,2020,Affirmative Asylee
+996,Malaysia,7,2020,Affirmative Asylee
+997,Mali,12,2020,Affirmative Asylee
+998,Mauritania,76,2020,Affirmative Asylee
+999,Mexico,490,2020,Affirmative Asylee
+1000,Moldova,32,2020,Affirmative Asylee
+1001,Mongolia,53,2020,Affirmative Asylee
+1002,Montenegro,7,2020,Affirmative Asylee
+1003,Morocco,3,2020,Affirmative Asylee
+1004,Nepal,16,2020,Affirmative Asylee
+1005,Nicaragua,188,2020,Affirmative Asylee
+1006,Niger,5,2020,Affirmative Asylee
+1007,Nigeria,411,2020,Affirmative Asylee
+1008,North Macedonia,D,2020,Affirmative Asylee
+1009,Pakistan,249,2020,Affirmative Asylee
+1010,Peru,6,2020,Affirmative Asylee
+1011,Philippines,D,2020,Affirmative Asylee
+1012,Romania,14,2020,Affirmative Asylee
+1013,Russia,741,2020,Affirmative Asylee
+1014,Rwanda,89,2020,Affirmative Asylee
+1015,Saudi Arabia,45,2020,Affirmative Asylee
+1016,Senegal,20,2020,Affirmative Asylee
+1017,Serbia,6,2020,Affirmative Asylee
+1018,Serbia and Montenegro (former),D,2020,Affirmative Asylee
+1019,Sierra Leone,23,2020,Affirmative Asylee
+1020,Somalia,15,2020,Affirmative Asylee
+1021,South Africa,6,2020,Affirmative Asylee
+1022,South Sudan,4,2020,Affirmative Asylee
+1023,Soviet Union (former),18,2020,Affirmative Asylee
+1024,Sri Lanka,22,2020,Affirmative Asylee
+1025,Sudan,97,2020,Affirmative Asylee
+1026,Syria,286,2020,Affirmative Asylee
+1027,Tajikistan,13,2020,Affirmative Asylee
+1028,Tanzania,7,2020,Affirmative Asylee
+1029,Togo,28,2020,Affirmative Asylee
+1030,Tunisia,10,2020,Affirmative Asylee
+1031,Turkey,1568,2020,Affirmative Asylee
+1032,Turkmenistan,41,2020,Affirmative Asylee
+1033,Uganda,142,2020,Affirmative Asylee
+1034,Ukraine,150,2020,Affirmative Asylee
+1035,Uzbekistan,34,2020,Affirmative Asylee
+1036,Venezuela,3349,2020,Affirmative Asylee
+1037,Vietnam,23,2020,Affirmative Asylee
+1038,Yemen,48,2020,Affirmative Asylee
+1039,Zimbabwe,49,2020,Affirmative Asylee
+0,Afghanistan,411,2011,Refugee
+1,Angola,6,2011,Refugee
+2,Armenia,16,2011,Refugee
+3,Azerbaijan,17,2011,Refugee
+4,Belarus,67,2011,Refugee
+5,Bhutan,14959,2011,Refugee
+6,Burma,16970,2011,Refugee
+7,Burundi,120,2011,Refugee
+8,Cambodia,5,2011,Refugee
+9,Cameroon,-,2011,Refugee
+10,Central African Republic,183,2011,Refugee
+11,Chad,25,2011,Refugee
+12,China,28,2011,Refugee
+13,Colombia,46,2011,Refugee
+14,"Congo, Democratic Republic",962,2011,Refugee
+15,"Congo, Republic",26,2011,Refugee
+16,Cote d'Ivoire,7,2011,Refugee
+17,Cuba,2920,2011,Refugee
+18,Ecuador,-,2011,Refugee
+19,Egypt,11,2011,Refugee
+20,El Salvador,-,2011,Refugee
+21,Eritrea,1988,2011,Refugee
+22,Ethiopia,608,2011,Refugee
+23,Gambia,7,2011,Refugee
+24,Georgia,20,2011,Refugee
+25,Guatemala,5,2011,Refugee
+26,Guinea,5,2011,Refugee
+27,Honduras,5,2011,Refugee
+28,India,15,2011,Refugee
+29,Indonesia,D,2011,Refugee
+30,Iran,2025,2011,Refugee
+31,Iraq,9345,2011,Refugee
+32,Jordan,17,2011,Refugee
+33,Kazakhstan,52,2011,Refugee
+34,Kenya,D,2011,Refugee
+35,"Korea, North",23,2011,Refugee
+36,Kuwait,3,2011,Refugee
+37,Kyrgyzstan,30,2011,Refugee
+38,Laos,211,2011,Refugee
+39,Latvia,4,2011,Refugee
+40,Lebanon,10,2011,Refugee
+41,Liberia,120,2011,Refugee
+42,Moldova,326,2011,Refugee
+43,Nepal,42,2011,Refugee
+44,Pakistan,54,2011,Refugee
+45,Russia,186,2011,Refugee
+46,Rwanda,77,2011,Refugee
+47,Senegal,D,2011,Refugee
+48,Sierra Leone,29,2011,Refugee
+49,Somalia,3145,2011,Refugee
+50,South Sudan,-,2011,Refugee
+51,Sri Lanka,69,2011,Refugee
+52,Sudan,335,2011,Refugee
+53,Syria,41,2011,Refugee
+54,Tajikistan,3,2011,Refugee
+55,Thailand,5,2011,Refugee
+56,Togo,5,2011,Refugee
+57,Turkmenistan,D,2011,Refugee
+58,Uganda,10,2011,Refugee
+59,Ukraine,435,2011,Refugee
+60,Uzbekistan,98,2011,Refugee
+61,Venezuela,-,2011,Refugee
+62,Vietnam,79,2011,Refugee
+63,Yemen,4,2011,Refugee
+64,Zimbabwe,8,2011,Refugee
+65,Afghanistan,450,2012,Refugee
+66,Angola,D,2012,Refugee
+67,Armenia,8,2012,Refugee
+68,Azerbaijan,10,2012,Refugee
+69,Belarus,84,2012,Refugee
+70,Bhutan,15022,2012,Refugee
+71,Burma,14159,2012,Refugee
+72,Burundi,188,2012,Refugee
+73,Cambodia,6,2012,Refugee
+74,Cameroon,12,2012,Refugee
+75,Central African Republic,132,2012,Refugee
+76,Chad,13,2012,Refugee
+77,China,51,2012,Refugee
+78,Colombia,125,2012,Refugee
+79,"Congo, Democratic Republic",1849,2012,Refugee
+80,"Congo, Republic",97,2012,Refugee
+81,Cote d'Ivoire,33,2012,Refugee
+82,Cuba,1948,2012,Refugee
+83,Ecuador,D,2012,Refugee
+84,Egypt,17,2012,Refugee
+85,El Salvador,-,2012,Refugee
+86,Eritrea,1329,2012,Refugee
+87,Ethiopia,639,2012,Refugee
+88,Gambia,D,2012,Refugee
+89,Georgia,7,2012,Refugee
+90,Guatemala,-,2012,Refugee
+91,Guinea,-,2012,Refugee
+92,Honduras,-,2012,Refugee
+93,India,17,2012,Refugee
+94,Indonesia,D,2012,Refugee
+95,Iran,1760,2012,Refugee
+96,Iraq,12057,2012,Refugee
+97,Jordan,38,2012,Refugee
+98,Kazakhstan,7,2012,Refugee
+99,Kenya,23,2012,Refugee
+100,"Korea, North",21,2012,Refugee
+101,Kuwait,D,2012,Refugee
+102,Kyrgyzstan,57,2012,Refugee
+103,Laos,21,2012,Refugee
+104,Latvia,-,2012,Refugee
+105,Lebanon,11,2012,Refugee
+106,Liberia,72,2012,Refugee
+107,Moldova,257,2012,Refugee
+108,Nepal,83,2012,Refugee
+109,Pakistan,274,2012,Refugee
+110,Russia,224,2012,Refugee
+111,Rwanda,161,2012,Refugee
+112,Senegal,5,2012,Refugee
+113,Sierra Leone,D,2012,Refugee
+114,Somalia,4915,2012,Refugee
+115,South Sudan,D,2012,Refugee
+116,Sri Lanka,58,2012,Refugee
+117,Sudan,1059,2012,Refugee
+118,Syria,31,2012,Refugee
+119,Tajikistan,4,2012,Refugee
+120,Thailand,8,2012,Refugee
+121,Togo,25,2012,Refugee
+122,Turkmenistan,-,2012,Refugee
+123,Uganda,18,2012,Refugee
+124,Ukraine,377,2012,Refugee
+125,Uzbekistan,139,2012,Refugee
+126,Venezuela,4,2012,Refugee
+127,Vietnam,41,2012,Refugee
+128,Yemen,-,2012,Refugee
+129,Zimbabwe,3,2012,Refugee
+130,Afghanistan,622,2013,Refugee
+131,Angola,11,2013,Refugee
+132,Armenia,5,2013,Refugee
+133,Azerbaijan,8,2013,Refugee
+134,Belarus,17,2013,Refugee
+135,Bhutan,9045,2013,Refugee
+136,Burma,16295,2013,Refugee
+137,Burundi,203,2013,Refugee
+138,Cambodia,30,2013,Refugee
+139,Cameroon,-,2013,Refugee
+140,Central African Republic,315,2013,Refugee
+141,Chad,37,2013,Refugee
+142,China,102,2013,Refugee
+143,Colombia,214,2013,Refugee
+144,"Congo, Democratic Republic",2545,2013,Refugee
+145,"Congo, Republic",152,2013,Refugee
+146,Cote d'Ivoire,21,2013,Refugee
+147,Cuba,4205,2013,Refugee
+148,Ecuador,16,2013,Refugee
+149,Egypt,20,2013,Refugee
+150,El Salvador,-,2013,Refugee
+151,Eritrea,1763,2013,Refugee
+152,Ethiopia,859,2013,Refugee
+153,Gambia,11,2013,Refugee
+154,Georgia,D,2013,Refugee
+155,Guatemala,-,2013,Refugee
+156,Guinea,8,2013,Refugee
+157,Honduras,-,2013,Refugee
+158,India,15,2013,Refugee
+159,Indonesia,4,2013,Refugee
+160,Iran,2579,2013,Refugee
+161,Iraq,19331,2013,Refugee
+162,Jordan,74,2013,Refugee
+163,Kazakhstan,11,2013,Refugee
+164,Kenya,5,2013,Refugee
+165,"Korea, North",17,2013,Refugee
+166,Kuwait,13,2013,Refugee
+167,Kyrgyzstan,19,2013,Refugee
+168,Laos,-,2013,Refugee
+169,Latvia,-,2013,Refugee
+170,Lebanon,24,2013,Refugee
+171,Liberia,96,2013,Refugee
+172,Moldova,115,2013,Refugee
+173,Nepal,115,2013,Refugee
+174,Pakistan,155,2013,Refugee
+175,Russia,162,2013,Refugee
+176,Rwanda,143,2013,Refugee
+177,Senegal,D,2013,Refugee
+178,Sierra Leone,4,2013,Refugee
+179,Somalia,7579,2013,Refugee
+180,South Sudan,19,2013,Refugee
+181,Sri Lanka,92,2013,Refugee
+182,Sudan,2137,2013,Refugee
+183,Syria,48,2013,Refugee
+184,Tajikistan,5,2013,Refugee
+185,Thailand,5,2013,Refugee
+186,Togo,16,2013,Refugee
+187,Turkmenistan,7,2013,Refugee
+188,Uganda,15,2013,Refugee
+189,Ukraine,235,2013,Refugee
+190,Uzbekistan,49,2013,Refugee
+191,Venezuela,3,2013,Refugee
+192,Vietnam,69,2013,Refugee
+193,Yemen,12,2013,Refugee
+194,Zimbabwe,17,2013,Refugee
+195,Afghanistan,758,2014,Refugee
+196,Angola,-,2014,Refugee
+197,Armenia,9,2014,Refugee
+198,Azerbaijan,15,2014,Refugee
+199,Belarus,43,2014,Refugee
+200,Bhutan,8316,2014,Refugee
+201,Burma,14578,2014,Refugee
+202,Burundi,84,2014,Refugee
+203,Cambodia,45,2014,Refugee
+204,Cameroon,5,2014,Refugee
+205,Central African Republic,25,2014,Refugee
+206,Chad,23,2014,Refugee
+207,China,57,2014,Refugee
+208,Colombia,243,2014,Refugee
+209,"Congo, Democratic Republic",4502,2014,Refugee
+210,"Congo, Republic",29,2014,Refugee
+211,Cote d'Ivoire,42,2014,Refugee
+212,Cuba,4063,2014,Refugee
+213,Ecuador,9,2014,Refugee
+214,Egypt,27,2014,Refugee
+215,El Salvador,-,2014,Refugee
+216,Eritrea,1445,2014,Refugee
+217,Ethiopia,754,2014,Refugee
+218,Gambia,D,2014,Refugee
+219,Georgia,13,2014,Refugee
+220,Guatemala,-,2014,Refugee
+221,Guinea,9,2014,Refugee
+222,Honduras,-,2014,Refugee
+223,India,26,2014,Refugee
+224,Indonesia,17,2014,Refugee
+225,Iran,2833,2014,Refugee
+226,Iraq,19651,2014,Refugee
+227,Jordan,41,2014,Refugee
+228,Kazakhstan,22,2014,Refugee
+229,Kenya,24,2014,Refugee
+230,"Korea, North",8,2014,Refugee
+231,Kuwait,10,2014,Refugee
+232,Kyrgyzstan,13,2014,Refugee
+233,Laos,D,2014,Refugee
+234,Latvia,-,2014,Refugee
+235,Lebanon,13,2014,Refugee
+236,Liberia,32,2014,Refugee
+237,Moldova,141,2014,Refugee
+238,Nepal,148,2014,Refugee
+239,Pakistan,239,2014,Refugee
+240,Russia,147,2014,Refugee
+241,Rwanda,60,2014,Refugee
+242,Senegal,-,2014,Refugee
+243,Sierra Leone,9,2014,Refugee
+244,Somalia,9011,2014,Refugee
+245,South Sudan,52,2014,Refugee
+246,Sri Lanka,58,2014,Refugee
+247,Sudan,1307,2014,Refugee
+248,Syria,132,2014,Refugee
+249,Tajikistan,-,2014,Refugee
+250,Thailand,6,2014,Refugee
+251,Togo,26,2014,Refugee
+252,Turkmenistan,D,2014,Refugee
+253,Uganda,8,2014,Refugee
+254,Ukraine,493,2014,Refugee
+255,Uzbekistan,68,2014,Refugee
+256,Venezuela,-,2014,Refugee
+257,Vietnam,68,2014,Refugee
+258,Yemen,4,2014,Refugee
+259,Zimbabwe,4,2014,Refugee
+260,Afghanistan,914,2015,Refugee
+261,Angola,8,2015,Refugee
+262,Armenia,47,2015,Refugee
+263,Azerbaijan,15,2015,Refugee
+264,Belarus,97,2015,Refugee
+265,Bhutan,5563,2015,Refugee
+266,Burma,18323,2015,Refugee
+267,Burundi,1218,2015,Refugee
+268,Cambodia,D,2015,Refugee
+269,Cameroon,17,2015,Refugee
+270,Central African Republic,262,2015,Refugee
+271,Chad,19,2015,Refugee
+272,China,30,2015,Refugee
+273,Colombia,504,2015,Refugee
+274,"Congo, Democratic Republic",7823,2015,Refugee
+275,"Congo, Republic",49,2015,Refugee
+276,Cote d'Ivoire,28,2015,Refugee
+277,Cuba,1526,2015,Refugee
+278,Ecuador,18,2015,Refugee
+279,Egypt,14,2015,Refugee
+280,El Salvador,-,2015,Refugee
+281,Eritrea,1576,2015,Refugee
+282,Ethiopia,646,2015,Refugee
+283,Gambia,D,2015,Refugee
+284,Georgia,9,2015,Refugee
+285,Guatemala,-,2015,Refugee
+286,Guinea,4,2015,Refugee
+287,Honduras,-,2015,Refugee
+288,India,23,2015,Refugee
+289,Indonesia,53,2015,Refugee
+290,Iran,3099,2015,Refugee
+291,Iraq,12608,2015,Refugee
+292,Jordan,21,2015,Refugee
+293,Kazakhstan,58,2015,Refugee
+294,Kenya,7,2015,Refugee
+295,"Korea, North",15,2015,Refugee
+296,Kuwait,8,2015,Refugee
+297,Kyrgyzstan,18,2015,Refugee
+298,Laos,-,2015,Refugee
+299,Latvia,-,2015,Refugee
+300,Lebanon,6,2015,Refugee
+301,Liberia,13,2015,Refugee
+302,Moldova,323,2015,Refugee
+303,Nepal,217,2015,Refugee
+304,Pakistan,159,2015,Refugee
+305,Russia,301,2015,Refugee
+306,Rwanda,186,2015,Refugee
+307,Senegal,4,2015,Refugee
+308,Sierra Leone,6,2015,Refugee
+309,Somalia,8852,2015,Refugee
+310,South Sudan,82,2015,Refugee
+311,Sri Lanka,90,2015,Refugee
+312,Sudan,1576,2015,Refugee
+313,Syria,1693,2015,Refugee
+314,Tajikistan,-,2015,Refugee
+315,Thailand,20,2015,Refugee
+316,Togo,D,2015,Refugee
+317,Turkmenistan,D,2015,Refugee
+318,Uganda,68,2015,Refugee
+319,Ukraine,1454,2015,Refugee
+320,Uzbekistan,42,2015,Refugee
+321,Venezuela,-,2015,Refugee
+322,Vietnam,22,2015,Refugee
+323,Yemen,23,2015,Refugee
+324,Zimbabwe,8,2015,Refugee
+325,Afghanistan,2743,2016,Refugee
+326,Angola,5,2016,Refugee
+327,Armenia,56,2016,Refugee
+328,Azerbaijan,32,2016,Refugee
+329,Belarus,187,2016,Refugee
+330,Bhutan,5455,2016,Refugee
+331,Burma,12294,2016,Refugee
+332,Burundi,729,2016,Refugee
+333,Cambodia,21,2016,Refugee
+334,Cameroon,14,2016,Refugee
+335,Central African Republic,395,2016,Refugee
+336,Chad,6,2016,Refugee
+337,China,57,2016,Refugee
+338,Colombia,523,2016,Refugee
+339,"Congo, Democratic Republic",16279,2016,Refugee
+340,"Congo, Republic",23,2016,Refugee
+341,Cote d'Ivoire,81,2016,Refugee
+342,Cuba,354,2016,Refugee
+343,Ecuador,6,2016,Refugee
+344,Egypt,19,2016,Refugee
+345,El Salvador,364,2016,Refugee
+346,Eritrea,1924,2016,Refugee
+347,Ethiopia,1147,2016,Refugee
+348,Gambia,-,2016,Refugee
+349,Georgia,17,2016,Refugee
+350,Guatemala,8,2016,Refugee
+351,Guinea,5,2016,Refugee
+352,Honduras,84,2016,Refugee
+353,India,92,2016,Refugee
+354,Indonesia,38,2016,Refugee
+355,Iran,3736,2016,Refugee
+356,Iraq,9837,2016,Refugee
+357,Jordan,13,2016,Refugee
+358,Kazakhstan,87,2016,Refugee
+359,Kenya,11,2016,Refugee
+360,"Korea, North",14,2016,Refugee
+361,Kuwait,4,2016,Refugee
+362,Kyrgyzstan,39,2016,Refugee
+363,Laos,7,2016,Refugee
+364,Latvia,-,2016,Refugee
+365,Lebanon,7,2016,Refugee
+366,Liberia,17,2016,Refugee
+367,Moldova,464,2016,Refugee
+368,Nepal,310,2016,Refugee
+369,Pakistan,546,2016,Refugee
+370,Russia,487,2016,Refugee
+371,Rwanda,169,2016,Refugee
+372,Senegal,16,2016,Refugee
+373,Sierra Leone,3,2016,Refugee
+374,Somalia,9032,2016,Refugee
+375,South Sudan,198,2016,Refugee
+376,Sri Lanka,89,2016,Refugee
+377,Sudan,1444,2016,Refugee
+378,Syria,12583,2016,Refugee
+379,Tajikistan,23,2016,Refugee
+380,Thailand,33,2016,Refugee
+381,Togo,19,2016,Refugee
+382,Turkmenistan,-,2016,Refugee
+383,Uganda,65,2016,Refugee
+384,Ukraine,2526,2016,Refugee
+385,Uzbekistan,37,2016,Refugee
+386,Venezuela,-,2016,Refugee
+387,Vietnam,55,2016,Refugee
+388,Yemen,23,2016,Refugee
+389,Zimbabwe,14,2016,Refugee
+390,Afghanistan,1315,2017,Refugee
+391,Angola,-,2017,Refugee
+392,Armenia,58,2017,Refugee
+393,Azerbaijan,21,2017,Refugee
+394,Belarus,79,2017,Refugee
+395,Bhutan,3340,2017,Refugee
+396,Burma,5047,2017,Refugee
+397,Burundi,304,2017,Refugee
+398,Cambodia,5,2017,Refugee
+399,Cameroon,24,2017,Refugee
+400,Central African Republic,271,2017,Refugee
+401,Chad,9,2017,Refugee
+402,China,27,2017,Refugee
+403,Colombia,231,2017,Refugee
+404,"Congo, Democratic Republic",9325,2017,Refugee
+405,"Congo, Republic",6,2017,Refugee
+406,Cote d'Ivoire,50,2017,Refugee
+407,Cuba,178,2017,Refugee
+408,Ecuador,D,2017,Refugee
+409,Egypt,10,2017,Refugee
+410,El Salvador,1124,2017,Refugee
+411,Eritrea,1912,2017,Refugee
+412,Ethiopia,791,2017,Refugee
+413,Gambia,5,2017,Refugee
+414,Georgia,-,2017,Refugee
+415,Guatemala,50,2017,Refugee
+416,Guinea,6,2017,Refugee
+417,Honduras,104,2017,Refugee
+418,India,53,2017,Refugee
+419,Indonesia,25,2017,Refugee
+420,Iran,2575,2017,Refugee
+421,Iraq,6857,2017,Refugee
+422,Jordan,9,2017,Refugee
+423,Kazakhstan,43,2017,Refugee
+424,Kenya,8,2017,Refugee
+425,"Korea, North",10,2017,Refugee
+426,Kuwait,6,2017,Refugee
+427,Kyrgyzstan,25,2017,Refugee
+428,Laos,-,2017,Refugee
+429,Latvia,13,2017,Refugee
+430,Lebanon,-,2017,Refugee
+431,Liberia,8,2017,Refugee
+432,Moldova,293,2017,Refugee
+433,Nepal,199,2017,Refugee
+434,Pakistan,347,2017,Refugee
+435,Russia,377,2017,Refugee
+436,Rwanda,122,2017,Refugee
+437,Senegal,22,2017,Refugee
+438,Sierra Leone,5,2017,Refugee
+439,Somalia,6122,2017,Refugee
+440,South Sudan,183,2017,Refugee
+441,Sri Lanka,14,2017,Refugee
+442,Sudan,962,2017,Refugee
+443,Syria,6566,2017,Refugee
+444,Tajikistan,-,2017,Refugee
+445,Thailand,11,2017,Refugee
+446,Togo,D,2017,Refugee
+447,Turkmenistan,-,2017,Refugee
+448,Uganda,58,2017,Refugee
+449,Ukraine,4254,2017,Refugee
+450,Uzbekistan,35,2017,Refugee
+451,Venezuela,-,2017,Refugee
+452,Vietnam,20,2017,Refugee
+453,Yemen,23,2017,Refugee
+454,Zimbabwe,D,2017,Refugee
+455,Afghanistan,802,2018,Refugee
+456,Angola,D,2018,Refugee
+457,Armenia,58,2018,Refugee
+458,Azerbaijan,D,2018,Refugee
+459,Belarus,180,2018,Refugee
+460,Bhutan,2016,2018,Refugee
+461,Burma,3525,2018,Refugee
+462,Burundi,219,2018,Refugee
+463,Cambodia,-,2018,Refugee
+464,Cameroon,14,2018,Refugee
+465,Central African Republic,143,2018,Refugee
+466,Chad,3,2018,Refugee
+467,China,6,2018,Refugee
+468,Colombia,127,2018,Refugee
+469,"Congo, Democratic Republic",7841,2018,Refugee
+470,"Congo, Republic",7,2018,Refugee
+471,Cote d'Ivoire,15,2018,Refugee
+472,Cuba,-,2018,Refugee
+473,Ecuador,D,2018,Refugee
+474,Egypt,D,2018,Refugee
+475,El Salvador,724,2018,Refugee
+476,Eritrea,1260,2018,Refugee
+477,Ethiopia,387,2018,Refugee
+478,Gambia,-,2018,Refugee
+479,Georgia,3,2018,Refugee
+480,Guatemala,42,2018,Refugee
+481,Guinea,10,2018,Refugee
+482,Honduras,59,2018,Refugee
+483,India,32,2018,Refugee
+484,Indonesia,16,2018,Refugee
+485,Iran,41,2018,Refugee
+486,Iraq,140,2018,Refugee
+487,Jordan,D,2018,Refugee
+488,Kazakhstan,45,2018,Refugee
+489,Kenya,4,2018,Refugee
+490,"Korea, North",5,2018,Refugee
+491,Kuwait,D,2018,Refugee
+492,Kyrgyzstan,12,2018,Refugee
+493,Laos,-,2018,Refugee
+494,Latvia,-,2018,Refugee
+495,Lebanon,-,2018,Refugee
+496,Liberia,6,2018,Refugee
+497,Moldova,197,2018,Refugee
+498,Nepal,193,2018,Refugee
+499,Pakistan,444,2018,Refugee
+500,Russia,442,2018,Refugee
+501,Rwanda,121,2018,Refugee
+502,Senegal,14,2018,Refugee
+503,Sierra Leone,D,2018,Refugee
+504,Somalia,257,2018,Refugee
+505,South Sudan,13,2018,Refugee
+506,Sri Lanka,57,2018,Refugee
+507,Sudan,74,2018,Refugee
+508,Syria,62,2018,Refugee
+509,Tajikistan,D,2018,Refugee
+510,Thailand,10,2018,Refugee
+511,Togo,-,2018,Refugee
+512,Turkmenistan,5,2018,Refugee
+513,Uganda,42,2018,Refugee
+514,Ukraine,2637,2018,Refugee
+515,Uzbekistan,27,2018,Refugee
+516,Venezuela,-,2018,Refugee
+517,Vietnam,10,2018,Refugee
+518,Yemen,D,2018,Refugee
+519,Zimbabwe,11,2018,Refugee
+520,Afghanistan,1197,2019,Refugee
+521,Angola,3,2019,Refugee
+522,Armenia,33,2019,Refugee
+523,Azerbaijan,-,2019,Refugee
+524,Belarus,100,2019,Refugee
+525,Bhutan,28,2019,Refugee
+526,Burma,4928,2019,Refugee
+527,Burundi,259,2019,Refugee
+528,Cambodia,D,2019,Refugee
+529,Cameroon,28,2019,Refugee
+530,Central African Republic,244,2019,Refugee
+531,Chad,8,2019,Refugee
+532,China,D,2019,Refugee
+533,Colombia,298,2019,Refugee
+534,"Congo, Democratic Republic",12875,2019,Refugee
+535,"Congo, Republic",3,2019,Refugee
+536,Cote d'Ivoire,67,2019,Refugee
+537,Cuba,D,2019,Refugee
+538,Ecuador,-,2019,Refugee
+539,Egypt,6,2019,Refugee
+540,El Salvador,311,2019,Refugee
+541,Eritrea,1750,2019,Refugee
+542,Ethiopia,258,2019,Refugee
+543,Gambia,D,2019,Refugee
+544,Georgia,26,2019,Refugee
+545,Guatemala,117,2019,Refugee
+546,Guinea,10,2019,Refugee
+547,Honduras,74,2019,Refugee
+548,India,D,2019,Refugee
+549,Indonesia,D,2019,Refugee
+550,Iran,198,2019,Refugee
+551,Iraq,462,2019,Refugee
+552,Jordan,5,2019,Refugee
+553,Kazakhstan,9,2019,Refugee
+554,Kenya,17,2019,Refugee
+555,"Korea, North",D,2019,Refugee
+556,Kuwait,D,2019,Refugee
+557,Kyrgyzstan,45,2019,Refugee
+558,Laos,-,2019,Refugee
+559,Latvia,-,2019,Refugee
+560,Lebanon,D,2019,Refugee
+561,Liberia,31,2019,Refugee
+562,Moldova,116,2019,Refugee
+563,Nepal,16,2019,Refugee
+564,Pakistan,266,2019,Refugee
+565,Russia,198,2019,Refugee
+566,Rwanda,104,2019,Refugee
+567,Senegal,14,2019,Refugee
+568,Sierra Leone,D,2019,Refugee
+569,Somalia,230,2019,Refugee
+570,South Sudan,45,2019,Refugee
+571,Sri Lanka,17,2019,Refugee
+572,Sudan,376,2019,Refugee
+573,Syria,560,2019,Refugee
+574,Tajikistan,-,2019,Refugee
+575,Thailand,3,2019,Refugee
+576,Togo,D,2019,Refugee
+577,Turkmenistan,18,2019,Refugee
+578,Uganda,25,2019,Refugee
+579,Ukraine,4432,2019,Refugee
+580,Uzbekistan,11,2019,Refugee
+581,Venezuela,-,2019,Refugee
+582,Vietnam,10,2019,Refugee
+583,Yemen,3,2019,Refugee
+584,Zimbabwe,D,2019,Refugee
+585,Afghanistan,603,2020,Refugee
+586,Angola,-,2020,Refugee
+587,Armenia,63,2020,Refugee
+588,Azerbaijan,D,2020,Refugee
+589,Belarus,-,2020,Refugee
+590,Bhutan,7,2020,Refugee
+591,Burma,2112,2020,Refugee
+592,Burundi,53,2020,Refugee
+593,Cambodia,-,2020,Refugee
+594,Cameroon,6,2020,Refugee
+595,Central African Republic,85,2020,Refugee
+596,Chad,-,2020,Refugee
+597,China,-,2020,Refugee
+598,Colombia,219,2020,Refugee
+599,"Congo, Democratic Republic",2863,2020,Refugee
+600,"Congo, Republic",D,2020,Refugee
+601,Cote d'Ivoire,26,2020,Refugee
+602,Cuba,7,2020,Refugee
+603,Ecuador,-,2020,Refugee
+604,Egypt,D,2020,Refugee
+605,El Salvador,362,2020,Refugee
+606,Eritrea,475,2020,Refugee
+607,Ethiopia,119,2020,Refugee
+608,Gambia,-,2020,Refugee
+609,Georgia,-,2020,Refugee
+610,Guatemala,249,2020,Refugee
+611,Guinea,D,2020,Refugee
+612,Honduras,90,2020,Refugee
+613,India,3,2020,Refugee
+614,Indonesia,D,2020,Refugee
+615,Iran,135,2020,Refugee
+616,Iraq,541,2020,Refugee
+617,Jordan,D,2020,Refugee
+618,Kazakhstan,28,2020,Refugee
+619,Kenya,D,2020,Refugee
+620,"Korea, North",D,2020,Refugee
+621,Kuwait,-,2020,Refugee
+622,Kyrgyzstan,-,2020,Refugee
+623,Laos,-,2020,Refugee
+624,Latvia,-,2020,Refugee
+625,Lebanon,5,2020,Refugee
+626,Liberia,31,2020,Refugee
+627,Moldova,352,2020,Refugee
+628,Nepal,4,2020,Refugee
+629,Pakistan,169,2020,Refugee
+630,Russia,190,2020,Refugee
+631,Rwanda,14,2020,Refugee
+632,Senegal,14,2020,Refugee
+633,Sierra Leone,D,2020,Refugee
+634,Somalia,149,2020,Refugee
+635,South Sudan,35,2020,Refugee
+636,Sri Lanka,42,2020,Refugee
+637,Sudan,258,2020,Refugee
+638,Syria,486,2020,Refugee
+639,Tajikistan,-,2020,Refugee
+640,Thailand,7,2020,Refugee
+641,Togo,-,2020,Refugee
+642,Turkmenistan,-,2020,Refugee
+643,Uganda,26,2020,Refugee
+644,Ukraine,1935,2020,Refugee
+645,Uzbekistan,8,2020,Refugee
+646,Venezuela,17,2020,Refugee
+647,Vietnam,12,2020,Refugee
+648,Yemen,D,2020,Refugee
+649,Zimbabwe,3,2020,Refugee
